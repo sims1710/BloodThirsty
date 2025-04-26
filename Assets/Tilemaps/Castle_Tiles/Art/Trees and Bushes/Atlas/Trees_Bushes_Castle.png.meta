@@ -1,0 +1,1521 @@
+fileFormatVersion: 2
+guid: 5f6b50aa16ae7e14a8b1ce6dcaa8df7d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4722485371782614586
+    second: Trees_Bushes_Castle_0
+  - first:
+      213: -1444730704565432406
+    second: Trees_Bushes_Castle_1
+  - first:
+      213: -3376510692372087985
+    second: Trees_Bushes_Castle_2
+  - first:
+      213: -5559265840964836828
+    second: Trees_Bushes_Castle_3
+  - first:
+      213: 2392569631502167231
+    second: Trees_Bushes_Castle_4
+  - first:
+      213: -5554720717616339137
+    second: Trees_Bushes_Castle_5
+  - first:
+      213: -8634757586866911850
+    second: Trees_Bushes_Castle_6
+  - first:
+      213: 1252027629704940786
+    second: Trees_Bushes_Castle_7
+  - first:
+      213: -2195994504155373842
+    second: Trees_Bushes_Castle_8
+  - first:
+      213: -9021194522818739527
+    second: Trees_Bushes_Castle_9
+  - first:
+      213: 1545241804413624255
+    second: Trees_Bushes_Castle_10
+  - first:
+      213: -594956237211518413
+    second: Trees_Bushes_Castle_11
+  - first:
+      213: -7250816978361800866
+    second: Trees_Bushes_Castle_12
+  - first:
+      213: -8887529288736103652
+    second: Trees_Bushes_Castle_13
+  - first:
+      213: 4999719214644071888
+    second: Trees_Bushes_Castle_14
+  - first:
+      213: 7203837298191203679
+    second: Trees_Bushes_Castle_15
+  - first:
+      213: 30658660540705641
+    second: Trees_Bushes_Castle_16
+  - first:
+      213: -6160329617050490887
+    second: Trees_Bushes_Castle_17
+  - first:
+      213: -2214600825664892371
+    second: Trees_Bushes_Castle_18
+  - first:
+      213: -3824049455613810918
+    second: Trees_Bushes_Castle_19
+  - first:
+      213: -1164004360989950393
+    second: Trees_Bushes_Castle_20
+  - first:
+      213: 963097669552772532
+    second: Trees_Bushes_Castle_21
+  - first:
+      213: -4345140959376103349
+    second: Trees_Bushes_Castle_22
+  - first:
+      213: 4551365724991076712
+    second: Trees_Bushes_Castle_23
+  - first:
+      213: 180733408894107726
+    second: Trees_Bushes_Castle_24
+  - first:
+      213: 3023520290011510698
+    second: Trees_Bushes_Castle_25
+  - first:
+      213: -3655533991995904294
+    second: Trees_Bushes_Castle_26
+  - first:
+      213: -6380862934398075741
+    second: Trees_Bushes_Castle_27
+  - first:
+      213: -4758882908338100156
+    second: Trees_Bushes_Castle_28
+  - first:
+      213: 459284152294972217
+    second: Trees_Bushes_Castle_29
+  - first:
+      213: 6908993284805528267
+    second: Trees_Bushes_Castle_30
+  - first:
+      213: -5532329993564772070
+    second: Trees_Bushes_Castle_31
+  - first:
+      213: -5650737977293220142
+    second: Trees_Bushes_Castle_32
+  - first:
+      213: 1467595068706784507
+    second: Trees_Bushes_Castle_33
+  - first:
+      213: 1835315636342617465
+    second: Trees_Bushes_Castle_34
+  - first:
+      213: 8022853368075266359
+    second: Trees_Bushes_Castle_35
+  - first:
+      213: -773771586205315221
+    second: Trees_Bushes_Castle_36
+  - first:
+      213: 8328908017130266718
+    second: Trees_Bushes_Castle_37
+  - first:
+      213: 2516765556439578274
+    second: Trees_Bushes_Castle_38
+  - first:
+      213: -914957588435952901
+    second: Trees_Bushes_Castle_39
+  - first:
+      213: -525977462826808447
+    second: Trees_Bushes_Castle_40
+  - first:
+      213: -1304811557262145829
+    second: Trees_Bushes_Castle_41
+  - first:
+      213: -5462090822716647514
+    second: Trees_Bushes_Castle_42
+  - first:
+      213: -1133142944343220151
+    second: Trees_Bushes_Castle_43
+  - first:
+      213: -5923773567821302098
+    second: Trees_Bushes_Castle_44
+  - first:
+      213: -4471086223053840031
+    second: Trees_Bushes_Castle_45
+  - first:
+      213: 665432480431292760
+    second: Trees_Bushes_Castle_46
+  - first:
+      213: -9039315798541043467
+    second: Trees_Bushes_Castle_47
+  - first:
+      213: -5453333280928361506
+    second: Trees_Bushes_Castle_48
+  - first:
+      213: -7652840145256396403
+    second: Trees_Bushes_Castle_49
+  - first:
+      213: -7746446153989983469
+    second: Trees_Bushes_Castle_50
+  - first:
+      213: 3123038966795562657
+    second: Trees_Bushes_Castle_51
+  - first:
+      213: -1923593526249044796
+    second: Trees_Bushes_Castle_52
+  - first:
+      213: 2175508552062475363
+    second: Trees_Bushes_Castle_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Trees_Bushes_Castle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 639
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c13bed339c567eb0800000000000000
+      internalID: -4722485371782614586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Castle_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 672
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf0746241943fbe0800000000000000
+      internalID: -1444730704565432406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Castle_2
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 639
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b7ad03a693421d0800000000000000
+      internalID: -3376510692372087985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Castle_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 672
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 422e3510c2589d2b0800000000000000
+      internalID: -5559265840964836828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Castle_4
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 639
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbce21a476d143120800000000000000
+      internalID: 2392569631502167231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Castle_5
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 672
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37a9ffffeaa9e2b0800000000000000
+      internalID: -5554720717616339137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Castle_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 559
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 695403149bd2b2880800000000000000
+      internalID: -8634757586866911850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Castle_7
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 624
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc8985ee78106110800000000000000
+      internalID: 1252027629704940786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Castle_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 559
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeedb1322a24681e0800000000000000
+      internalID: -2195994504155373842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Castle_9
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 624
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b280b9b0674ec280800000000000000
+      internalID: -9021194522818739527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Castle_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 559
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf582ceb3dc17510800000000000000
+      internalID: 1545241804413624255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Castle_11
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 624
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33aba18547a4eb7f0800000000000000
+      internalID: -594956237211518413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Castle_12
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 576
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57af59ef5cef5b90800000000000000
+      internalID: -7250816978361800866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Castle_13
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 576
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c132106333729a480800000000000000
+      internalID: -8887529288736103652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Castle_14
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 576
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd0e85d222926540800000000000000
+      internalID: 4999719214644071888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Castle_15
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 543
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d756aeadb29f360800000000000000
+      internalID: 7203837298191203679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Castle_16
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 543
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b61daa3ebec6000800000000000000
+      internalID: 30658660540705641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Castle_17
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 543
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f723642adc128aa0800000000000000
+      internalID: -6160329617050490887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Castle_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 448
+        width: 54
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2215f258482441e0800000000000000
+      internalID: -2214600825664892371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Castle_19
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 513
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17ec92e74f3eeac0800000000000000
+      internalID: -3824049455613810918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Castle_20
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 448
+        width: 54
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e303a6330a8dfe0800000000000000
+      internalID: -1164004360989950393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Castle_21
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 513
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b513bd4a3c9d5d00800000000000000
+      internalID: 963097669552772532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Castle_22
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 448
+        width: 54
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b482369a155f2b3c0800000000000000
+      internalID: -4345140959376103349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Castle_23
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 513
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8693bf04303b92f30800000000000000
+      internalID: 4551365724991076712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Castle_24
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 479
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40cd2ce318128200800000000000000
+      internalID: 180733408894107726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Castle_25
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 479
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa772593fa3b5f920800000000000000
+      internalID: 3023520290011510698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Castle_26
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 479
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adee7beb33fe44dc0800000000000000
+      internalID: -3655533991995904294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Castle_27
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 448
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3acfebae7fe9277a0800000000000000
+      internalID: -6380862934398075741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Castle_28
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 448
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44864d0653d05fdb0800000000000000
+      internalID: -4758882908338100156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Castle_29
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 448
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b128cc084bf5600800000000000000
+      internalID: 459284152294972217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Castle_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 337
+        width: 49
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca846089cca1ef50800000000000000
+      internalID: 6908993284805528267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Castle_31
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 337
+        width: 50
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a192551be273933b0800000000000000
+      internalID: -5532329993564772070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Castle_32
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 337
+        width: 50
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6d0a0afbb8491b0800000000000000
+      internalID: -5650737977293220142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Castle_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf4026870f1fd5410800000000000000
+      internalID: 1467595068706784507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Castle_34
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 304
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 975fbeae8d9587910800000000000000
+      internalID: 1835315636342617465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Castle_35
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7392c21a1a6e65f60800000000000000
+      internalID: 8022853368075266359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Castle_36
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 304
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f01fa87d20345f0800000000000000
+      internalID: -773771586205315221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Castle_37
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e50e3ff86b9369370800000000000000
+      internalID: 8328908017130266718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Castle_38
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 304
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6f48e60f85de220800000000000000
+      internalID: 2516765556439578274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Castle_39
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 256
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa1ab4cbea6d43f0800000000000000
+      internalID: -914957588435952901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Castle_40
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 256
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18bc858c84a53b8f0800000000000000
+      internalID: -525977462826808447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Castle_41
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 256
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6c0964dc064ede0800000000000000
+      internalID: -1304811557262145829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Castle_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 65
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a79d0d0651c234b0800000000000000
+      internalID: -5462090822716647514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Castle_43
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 207
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 940aeaaee744640f0800000000000000
+      internalID: -1133142944343220151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Castle_44
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 160
+        width: 66
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6b92853578acda0800000000000000
+      internalID: -5923773567821302098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Castle_45
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 207
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 161abbad4c283f1c0800000000000000
+      internalID: -4471086223053840031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Castle_46
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 160
+        width: 66
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8514d1ab0571c3900800000000000000
+      internalID: 665432480431292760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Castle_47
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 207
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8726f6c26ed8280800000000000000
+      internalID: -9039315798541043467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Castle_48
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 175
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed31374264ed154b0800000000000000
+      internalID: -5453333280928361506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Castle_49
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 175
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89c4233f66abc590800000000000000
+      internalID: -7652840145256396403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Castle_50
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 175
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3137cbfe3481f7490800000000000000
+      internalID: -7746446153989983469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Castle_51
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 16
+        width: 99
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae6d8bc463475b20800000000000000
+      internalID: 3123038966795562657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Castle_52
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 16
+        width: 99
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c44fa721e50e45e0800000000000000
+      internalID: -1923593526249044796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Bushes_Castle_53
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 16
+        width: 99
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c12837085f03e10800000000000000
+      internalID: 2175508552062475363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Trees_Bushes_Castle_0: -4722485371782614586
+      Trees_Bushes_Castle_1: -1444730704565432406
+      Trees_Bushes_Castle_10: 1545241804413624255
+      Trees_Bushes_Castle_11: -594956237211518413
+      Trees_Bushes_Castle_12: -7250816978361800866
+      Trees_Bushes_Castle_13: -8887529288736103652
+      Trees_Bushes_Castle_14: 4999719214644071888
+      Trees_Bushes_Castle_15: 7203837298191203679
+      Trees_Bushes_Castle_16: 30658660540705641
+      Trees_Bushes_Castle_17: -6160329617050490887
+      Trees_Bushes_Castle_18: -2214600825664892371
+      Trees_Bushes_Castle_19: -3824049455613810918
+      Trees_Bushes_Castle_2: -3376510692372087985
+      Trees_Bushes_Castle_20: -1164004360989950393
+      Trees_Bushes_Castle_21: 963097669552772532
+      Trees_Bushes_Castle_22: -4345140959376103349
+      Trees_Bushes_Castle_23: 4551365724991076712
+      Trees_Bushes_Castle_24: 180733408894107726
+      Trees_Bushes_Castle_25: 3023520290011510698
+      Trees_Bushes_Castle_26: -3655533991995904294
+      Trees_Bushes_Castle_27: -6380862934398075741
+      Trees_Bushes_Castle_28: -4758882908338100156
+      Trees_Bushes_Castle_29: 459284152294972217
+      Trees_Bushes_Castle_3: -5559265840964836828
+      Trees_Bushes_Castle_30: 6908993284805528267
+      Trees_Bushes_Castle_31: -5532329993564772070
+      Trees_Bushes_Castle_32: -5650737977293220142
+      Trees_Bushes_Castle_33: 1467595068706784507
+      Trees_Bushes_Castle_34: 1835315636342617465
+      Trees_Bushes_Castle_35: 8022853368075266359
+      Trees_Bushes_Castle_36: -773771586205315221
+      Trees_Bushes_Castle_37: 8328908017130266718
+      Trees_Bushes_Castle_38: 2516765556439578274
+      Trees_Bushes_Castle_39: -914957588435952901
+      Trees_Bushes_Castle_4: 2392569631502167231
+      Trees_Bushes_Castle_40: -525977462826808447
+      Trees_Bushes_Castle_41: -1304811557262145829
+      Trees_Bushes_Castle_42: -5462090822716647514
+      Trees_Bushes_Castle_43: -1133142944343220151
+      Trees_Bushes_Castle_44: -5923773567821302098
+      Trees_Bushes_Castle_45: -4471086223053840031
+      Trees_Bushes_Castle_46: 665432480431292760
+      Trees_Bushes_Castle_47: -9039315798541043467
+      Trees_Bushes_Castle_48: -5453333280928361506
+      Trees_Bushes_Castle_49: -7652840145256396403
+      Trees_Bushes_Castle_5: -5554720717616339137
+      Trees_Bushes_Castle_50: -7746446153989983469
+      Trees_Bushes_Castle_51: 3123038966795562657
+      Trees_Bushes_Castle_52: -1923593526249044796
+      Trees_Bushes_Castle_53: 2175508552062475363
+      Trees_Bushes_Castle_6: -8634757586866911850
+      Trees_Bushes_Castle_7: 1252027629704940786
+      Trees_Bushes_Castle_8: -2195994504155373842
+      Trees_Bushes_Castle_9: -9021194522818739527
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

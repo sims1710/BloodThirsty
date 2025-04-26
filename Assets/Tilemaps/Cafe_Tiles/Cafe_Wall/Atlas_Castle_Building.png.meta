@@ -1,0 +1,3211 @@
+fileFormatVersion: 2
+guid: c12f7a32758a9d1488a7d45043d640e1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5079918751274380367
+    second: Atlas_Castle_Building_0
+  - first:
+      213: -3531139446551458661
+    second: Atlas_Castle_Building_1
+  - first:
+      213: -1943674094101513025
+    second: Atlas_Castle_Building_2
+  - first:
+      213: -2148298351309680631
+    second: Atlas_Castle_Building_3
+  - first:
+      213: 2084861176427579922
+    second: Atlas_Castle_Building_4
+  - first:
+      213: 730273957243973648
+    second: Atlas_Castle_Building_5
+  - first:
+      213: 1930395424269649510
+    second: Atlas_Castle_Building_6
+  - first:
+      213: -3841016708394192135
+    second: Atlas_Castle_Building_7
+  - first:
+      213: -3480202481537455693
+    second: Atlas_Castle_Building_8
+  - first:
+      213: -4665352407968671749
+    second: Atlas_Castle_Building_9
+  - first:
+      213: 5386508608234005628
+    second: Atlas_Castle_Building_10
+  - first:
+      213: 1151145924493226909
+    second: Atlas_Castle_Building_11
+  - first:
+      213: -5171851683670042265
+    second: Atlas_Castle_Building_12
+  - first:
+      213: -973534008821921006
+    second: Atlas_Castle_Building_13
+  - first:
+      213: -5499683843484233318
+    second: Atlas_Castle_Building_14
+  - first:
+      213: -6392781945025276915
+    second: Atlas_Castle_Building_15
+  - first:
+      213: 9198051598304991397
+    second: Atlas_Castle_Building_16
+  - first:
+      213: 3434295982935080295
+    second: Atlas_Castle_Building_17
+  - first:
+      213: -3933042808013970163
+    second: Atlas_Castle_Building_18
+  - first:
+      213: 6723542158616544860
+    second: Atlas_Castle_Building_19
+  - first:
+      213: -6697267531706841753
+    second: Atlas_Castle_Building_20
+  - first:
+      213: 7603440290692818590
+    second: Atlas_Castle_Building_21
+  - first:
+      213: 1183180859576990374
+    second: Atlas_Castle_Building_22
+  - first:
+      213: 1924363670663362112
+    second: Atlas_Castle_Building_23
+  - first:
+      213: 3771500955581279375
+    second: Atlas_Castle_Building_24
+  - first:
+      213: 2778921876610934386
+    second: Atlas_Castle_Building_25
+  - first:
+      213: -1189321942924145764
+    second: Atlas_Castle_Building_26
+  - first:
+      213: -3616751958414109539
+    second: Atlas_Castle_Building_27
+  - first:
+      213: 5996721946877342063
+    second: Atlas_Castle_Building_28
+  - first:
+      213: 5577836527989120786
+    second: Atlas_Castle_Building_29
+  - first:
+      213: -2632934887838838171
+    second: Atlas_Castle_Building_30
+  - first:
+      213: 7322727149456838542
+    second: Atlas_Castle_Building_31
+  - first:
+      213: 2682811615237749932
+    second: Atlas_Castle_Building_32
+  - first:
+      213: 9088098016778164081
+    second: Atlas_Castle_Building_33
+  - first:
+      213: -2404484831183851402
+    second: Atlas_Castle_Building_34
+  - first:
+      213: -1736111215812316435
+    second: Atlas_Castle_Building_35
+  - first:
+      213: 1881189100002303814
+    second: Atlas_Castle_Building_36
+  - first:
+      213: 5527004546058267527
+    second: Atlas_Castle_Building_37
+  - first:
+      213: 6382634246614522470
+    second: Atlas_Castle_Building_38
+  - first:
+      213: -964137465549575096
+    second: Atlas_Castle_Building_39
+  - first:
+      213: -796345321830527974
+    second: Atlas_Castle_Building_40
+  - first:
+      213: 8138753779068069830
+    second: Atlas_Castle_Building_41
+  - first:
+      213: -2609874616944319600
+    second: Atlas_Castle_Building_42
+  - first:
+      213: 6187890723647780209
+    second: Atlas_Castle_Building_43
+  - first:
+      213: 8744035218211470053
+    second: Atlas_Castle_Building_44
+  - first:
+      213: -7188719922422907673
+    second: Atlas_Castle_Building_45
+  - first:
+      213: -9092798501717872534
+    second: Atlas_Castle_Building_46
+  - first:
+      213: 8273182393193254742
+    second: Atlas_Castle_Building_47
+  - first:
+      213: -3076173349104466859
+    second: Atlas_Castle_Building_48
+  - first:
+      213: 6697320747443707810
+    second: Atlas_Castle_Building_49
+  - first:
+      213: 980774988238631300
+    second: Atlas_Castle_Building_50
+  - first:
+      213: 8005786247740885946
+    second: Atlas_Castle_Building_51
+  - first:
+      213: -1119918894043831654
+    second: Atlas_Castle_Building_52
+  - first:
+      213: 6531947256451334258
+    second: Atlas_Castle_Building_53
+  - first:
+      213: -3673893291821341805
+    second: Atlas_Castle_Building_54
+  - first:
+      213: 4791685651526102745
+    second: Atlas_Castle_Building_55
+  - first:
+      213: -8703981903745509458
+    second: Atlas_Castle_Building_56
+  - first:
+      213: -3659627678898884086
+    second: Atlas_Castle_Building_57
+  - first:
+      213: -6404534411597962002
+    second: Atlas_Castle_Building_58
+  - first:
+      213: -4224370703636834338
+    second: Atlas_Castle_Building_59
+  - first:
+      213: -6805840759968440338
+    second: Atlas_Castle_Building_60
+  - first:
+      213: 2987381419948307109
+    second: Atlas_Castle_Building_61
+  - first:
+      213: -2435290428964643136
+    second: Atlas_Castle_Building_62
+  - first:
+      213: 7958435817722064023
+    second: Atlas_Castle_Building_63
+  - first:
+      213: 4460630518545558007
+    second: Atlas_Castle_Building_64
+  - first:
+      213: 4561066917833080712
+    second: Atlas_Castle_Building_65
+  - first:
+      213: -2422226696108695460
+    second: Atlas_Castle_Building_66
+  - first:
+      213: 7274638947354714010
+    second: Atlas_Castle_Building_67
+  - first:
+      213: 8548586875685028371
+    second: Atlas_Castle_Building_68
+  - first:
+      213: 9190169935881952989
+    second: Atlas_Castle_Building_69
+  - first:
+      213: 2807594531906108626
+    second: Atlas_Castle_Building_70
+  - first:
+      213: -4781826987172032786
+    second: Atlas_Castle_Building_71
+  - first:
+      213: 3307129693608954371
+    second: Atlas_Castle_Building_72
+  - first:
+      213: -252794231677543445
+    second: Atlas_Castle_Building_73
+  - first:
+      213: -4524992231081279031
+    second: Atlas_Castle_Building_74
+  - first:
+      213: -3764342579952488396
+    second: Atlas_Castle_Building_75
+  - first:
+      213: 731953763734982703
+    second: Atlas_Castle_Building_76
+  - first:
+      213: -327055711461040138
+    second: Atlas_Castle_Building_77
+  - first:
+      213: 6198200856805390062
+    second: Atlas_Castle_Building_78
+  - first:
+      213: -1341079438437552545
+    second: Atlas_Castle_Building_79
+  - first:
+      213: 7021279347088869779
+    second: Atlas_Castle_Building_80
+  - first:
+      213: -8568779317100371975
+    second: Atlas_Castle_Building_81
+  - first:
+      213: -1429295230378742830
+    second: Atlas_Castle_Building_82
+  - first:
+      213: 3725168044751708951
+    second: Atlas_Castle_Building_83
+  - first:
+      213: 662035282595237104
+    second: Atlas_Castle_Building_84
+  - first:
+      213: -3772330372917087904
+    second: Atlas_Castle_Building_85
+  - first:
+      213: -2449196866640625019
+    second: Atlas_Castle_Building_86
+  - first:
+      213: 7311545412371530290
+    second: Atlas_Castle_Building_87
+  - first:
+      213: -3341424853841428637
+    second: Atlas_Castle_Building_88
+  - first:
+      213: 7012055036704940528
+    second: Atlas_Castle_Building_89
+  - first:
+      213: -973164782684555303
+    second: Atlas_Castle_Building_90
+  - first:
+      213: -7343764637689075570
+    second: Atlas_Castle_Building_91
+  - first:
+      213: 8698630120520081748
+    second: Atlas_Castle_Building_92
+  - first:
+      213: -5624561352513870691
+    second: Atlas_Castle_Building_93
+  - first:
+      213: 6667485714172080590
+    second: Atlas_Castle_Building_94
+  - first:
+      213: -457320266324570959
+    second: Atlas_Castle_Building_95
+  - first:
+      213: 4783279536321232918
+    second: Atlas_Castle_Building_96
+  - first:
+      213: 6347324396858410932
+    second: Atlas_Castle_Building_97
+  - first:
+      213: 7363667198478379946
+    second: Atlas_Castle_Building_98
+  - first:
+      213: 1102752246135297792
+    second: Atlas_Castle_Building_99
+  - first:
+      213: 2194296340743221525
+    second: Atlas_Castle_Building_100
+  - first:
+      213: 8008584061198478538
+    second: Atlas_Castle_Building_101
+  - first:
+      213: -7142025022583570020
+    second: Atlas_Castle_Building_102
+  - first:
+      213: 8776111651907947451
+    second: Atlas_Castle_Building_103
+  - first:
+      213: -7449335867157764003
+    second: Atlas_Castle_Building_104
+  - first:
+      213: 1002082372309977809
+    second: Atlas_Castle_Building_105
+  - first:
+      213: -5163403562936089680
+    second: Atlas_Castle_Building_106
+  - first:
+      213: -511202800789316722
+    second: Atlas_Castle_Building_107
+  - first:
+      213: 1787845240060842866
+    second: Atlas_Castle_Building_108
+  - first:
+      213: 1673743990208947856
+    second: Atlas_Castle_Building_109
+  - first:
+      213: 6218545001500860093
+    second: Atlas_Castle_Building_110
+  - first:
+      213: 1405477043167193900
+    second: Atlas_Castle_Building_111
+  - first:
+      213: -4333182826973761858
+    second: Atlas_Castle_Building_112
+  - first:
+      213: -6309378131177658736
+    second: Atlas_Castle_Building_113
+  - first:
+      213: 5080227792875991741
+    second: Atlas_Castle_Building_114
+  - first:
+      213: 2387606480942221735
+    second: Atlas_Castle_Building_115
+  - first:
+      213: -205115651366035029
+    second: Atlas_Castle_Building_116
+  - first:
+      213: -481190792811869652
+    second: Atlas_Castle_Building_117
+  - first:
+      213: -1838763841869585000
+    second: Atlas_Castle_Building_118
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1279
+        width: 50
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3d17e6fc08089b0800000000000000
+      internalID: -5079918751274380367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1279
+        width: 34
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c4ee3d16fdefec0800000000000000
+      internalID: -3531139446551458661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1375
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc33fd95bea605e0800000000000000
+      internalID: -1943674094101513025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_3
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1375
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90011aa1806bf22e0800000000000000
+      internalID: -2148298351309680631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1375
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a08f2a13aeeec10800000000000000
+      internalID: 2084861176427579922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_5
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1375
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 010fe328b44722a00800000000000000
+      internalID: 730273957243973648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_6
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1359
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666c1a329642aca10800000000000000
+      internalID: 1930395424269649510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_7
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1279
+        width: 48
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2f2df77a7f1bac0800000000000000
+      internalID: -3841016708394192135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_8
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1279
+        width: 33
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9e68d2846d3bfc0800000000000000
+      internalID: -3480202481537455693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_9
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1312
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf7930bf3b6514fb0800000000000000
+      internalID: -4665352407968671749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_10
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1327
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c742f5d4a09b0ca40800000000000000
+      internalID: 5386508608234005628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_11
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1327
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d93be0a8e11b9ff00800000000000000
+      internalID: 1151145924493226909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_12
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1311
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76957db9b44e938b0800000000000000
+      internalID: -5171851683670042265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_13
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1279
+        width: 32
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b486b1aff4d72f0800000000000000
+      internalID: -973534008821921006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_14
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1282
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91da24dea23da3b0800000000000000
+      internalID: -5499683843484233318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_15
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1279
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d04dc3001b64847a0800000000000000
+      internalID: -6392781945025276915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_16
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1279
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8deaef13b06af70800000000000000
+      internalID: 9198051598304991397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_17
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1231
+        width: 62
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d7564300219af20800000000000000
+      internalID: 3434295982935080295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_18
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1247
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d052ced77660b69c0800000000000000
+      internalID: -3933042808013970163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_19
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1247
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56c3bc68f1de4d50800000000000000
+      internalID: 6723542158616544860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_20
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1183
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7654bded9a68e03a0800000000000000
+      internalID: -6697267531706841753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_21
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1215
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9663add8a8d48960800000000000000
+      internalID: 7603440290692818590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_22
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1215
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aab02819b08b6010800000000000000
+      internalID: 1183180859576990374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_23
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1215
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0467e801096b4ba10800000000000000
+      internalID: 1924363670663362112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_24
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1215
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ce7770320175430800000000000000
+      internalID: 3771500955581279375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_25
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1183
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276e4f139b6b09620800000000000000
+      internalID: 2778921876610934386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_26
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1183
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9bcd648efdae7fe0800000000000000
+      internalID: -1189321942924145764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_27
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1183
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9457069147becdc0800000000000000
+      internalID: -3616751958414109539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_28
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1183
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61b964b6d2a83350800000000000000
+      internalID: 5996721946877342063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_29
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1055
+        width: 50
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f5df105c4786d40800000000000000
+      internalID: 5577836527989120786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_30
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1055
+        width: 34
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56212ad5bafe57bd0800000000000000
+      internalID: -2632934887838838171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_31
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1151
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8fcb728b8d8f9560800000000000000
+      internalID: 7322727149456838542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_32
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1151
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cacb98d23f24b3520800000000000000
+      internalID: 2682811615237749932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_33
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1151
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1779ef5def86f1e70800000000000000
+      internalID: 9088098016778164081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_34
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1151
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 670b87919cd81aed0800000000000000
+      internalID: -2404484831183851402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_35
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1135
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de27fea2c0818e7e0800000000000000
+      internalID: -1736111215812316435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_36
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1103
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f59fcf4835b1a10800000000000000
+      internalID: 1881189100002303814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_37
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1103
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ba5cfe95dd3bc40800000000000000
+      internalID: 5527004546058267527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_38
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1087
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a93b8d70ca39850800000000000000
+      internalID: 6382634246614522470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_39
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1055
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ca5435512be92f0800000000000000
+      internalID: -964137465549575096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_40
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1055
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c4fb52620d2f4f0800000000000000
+      internalID: -796345321830527974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_41
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1007
+        width: 62
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c768bbe079a2f070800000000000000
+      internalID: 8138753779068069830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_42
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1023
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093a9b41ddcd7cbd0800000000000000
+      internalID: -2609874616944319600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_43
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1023
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 175f5fb04ddcfd550800000000000000
+      internalID: 6187890723647780209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_44
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 959
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eafffcf3bd095970800000000000000
+      internalID: 8744035218211470053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_45
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 991
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec753a61598c3c90800000000000000
+      internalID: -7188719922422907673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_46
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 991
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60f6ea30f3efc180800000000000000
+      internalID: -9092798501717872534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_47
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 991
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65fcc4cad8f30d270800000000000000
+      internalID: 8273182393193254742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_48
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 991
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 554ca1323ac3f45d0800000000000000
+      internalID: -3076173349104466859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_49
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 959
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af5c326cb9a1fc50800000000000000
+      internalID: 6697320747443707810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_50
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 959
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4813d8ac7a96c9d00800000000000000
+      internalID: 980774988238631300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_51
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 959
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb8d440d244a1f60800000000000000
+      internalID: 8005786247740885946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_52
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 959
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92e44f03bf3570f0800000000000000
+      internalID: -1119918894043831654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 863
+        width: 81
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2708e580c6326aa50800000000000000
+      internalID: 6531947256451334258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_54
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 847
+        width: 44
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3936c462485b30dc0800000000000000
+      internalID: -3673893291821341805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_55
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 847
+        width: 44
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9deac8e66bc7f7240800000000000000
+      internalID: 4791685651526102745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_56
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 831
+        width: 60
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea712dff29e353780800000000000000
+      internalID: -8703981903745509458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_57
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 831
+        width: 60
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a027b0df304663dc0800000000000000
+      internalID: -3659627678898884086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_58
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 879
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee420f4a2e58e17a0800000000000000
+      internalID: -6404534411597962002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_59
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 879
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7d82a0a350065c0800000000000000
+      internalID: -4224370703636834338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_60
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 831
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eefd43043ebcc81a0800000000000000
+      internalID: -6805840759968440338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_61
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 831
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a2fe98d29f457920800000000000000
+      internalID: 2987381419948307109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_62
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 799
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce57a0f14c143ed0800000000000000
+      internalID: -2435290428964643136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_63
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 783
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ca11be53b027e60800000000000000
+      internalID: 7958435817722064023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_64
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 767
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f9ac2cb2d757ed30800000000000000
+      internalID: 4460630518545558007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_65
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 799
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ff93a323a2c4f30800000000000000
+      internalID: 4561066917833080712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_66
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 783
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5029f447a5826ed0800000000000000
+      internalID: -2422226696108695460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_67
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 767
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f9c467495b4f460800000000000000
+      internalID: 7274638947354714010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_68
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 767
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 312c5c8987ea2a670800000000000000
+      internalID: 8548586875685028371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_69
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 767
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dded7b57dda0a8f70800000000000000
+      internalID: 9190169935881952989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_70
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 703
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dcb79bf95496f620800000000000000
+      internalID: 2807594531906108626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_71
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 703
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee0c3cb0b983adb0800000000000000
+      internalID: -4781826987172032786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_72
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 703
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a45b53fe845ed20800000000000000
+      internalID: 3307129693608954371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_73
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 703
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb97935cf4ed7cf0800000000000000
+      internalID: -252794231677543445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_74
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 703
+        width: 67
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c18ffe4a8ff331c0800000000000000
+      internalID: -4524992231081279031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_75
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 655
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 430fd0d2e5e52cbc0800000000000000
+      internalID: -3764342579952488396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_76
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 655
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f201f6fe11c682a00800000000000000
+      internalID: 731953763734982703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_77
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 655
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff1a903090167bf0800000000000000
+      internalID: -327055711461040138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_78
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 655
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6386cf6de640650800000000000000
+      internalID: 6198200856805390062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_79
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 591
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e69582b57836de0800000000000000
+      internalID: -1341079438437552545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_80
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 591
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 399c408ad58907160800000000000000
+      internalID: 7021279347088869779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_81
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 591
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff94854c94951980800000000000000
+      internalID: -8568779317100371975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_82
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 591
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db6d1a8f8f1a2ce0800000000000000
+      internalID: -1429295230378742830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_83
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 591
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713ef04999472b330800000000000000
+      internalID: 3725168044751708951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_84
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 543
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc4dd7f495003900800000000000000
+      internalID: 662035282595237104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_85
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 543
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0613cd2338df5abc0800000000000000
+      internalID: -3772330372917087904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_86
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 543
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582c2ea1d64b20ed0800000000000000
+      internalID: -2449196866640625019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_87
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 543
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232ca8770d3d77560800000000000000
+      internalID: 7311545412371530290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_88
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 543
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36fbe1f8ccfd0a1d0800000000000000
+      internalID: -3341424853841428637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_89
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 479
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1694887e2df4160800000000000000
+      internalID: 7012055036704940528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_90
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 479
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7ba2449cf9e72f0800000000000000
+      internalID: -973164782684555303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_91
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 479
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88a77098f4b51a90800000000000000
+      internalID: -7343764637689075570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_92
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 479
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 451ec1ed10eb7b870800000000000000
+      internalID: 8698630120520081748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_93
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 479
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d942506004b81f1b0800000000000000
+      internalID: -5624561352513870691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_94
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 431
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1f7326eeaa78c50800000000000000
+      internalID: 6667485714172080590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_95
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 431
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc032904a547a9f0800000000000000
+      internalID: -457320266324570959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_96
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 431
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61082d7356f916240800000000000000
+      internalID: 4783279536321232918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_97
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 431
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b78aecc8e9361850800000000000000
+      internalID: 6347324396858410932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_98
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 431
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aabef797d40013660800000000000000
+      internalID: 7363667198478379946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_99
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 383
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00798224353cd4f00800000000000000
+      internalID: 1102752246135297792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_100
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 383
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51170f165e4b37e10800000000000000
+      internalID: 2194296340743221525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_101
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 319
+        width: 80
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc2799b5c4342f60800000000000000
+      internalID: 8008584061198478538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_102
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 319
+        width: 80
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9184fff41e62ec90800000000000000
+      internalID: -7142025022583570020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_103
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 319
+        width: 81
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbbc321bc030bc970800000000000000
+      internalID: 8776111651907947451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_104
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 319
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d582c714f74ae9890800000000000000
+      internalID: -7449335867157764003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_105
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 319
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da873dbb9c18ed00800000000000000
+      internalID: 1002082372309977809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_106
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 255
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b3453ff0d7e758b0800000000000000
+      internalID: -5163403562936089680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_107
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 239
+        width: 82
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b94cad2c7d7e8f0800000000000000
+      internalID: -511202800789316722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_108
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 239
+        width: 33
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 273133ff5c3bfc810800000000000000
+      internalID: 1787845240060842866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_109
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 239
+        width: 33
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096695d8a455a3710800000000000000
+      internalID: 1673743990208947856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_110
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 191
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe5d3a4bb5bc4650800000000000000
+      internalID: 6218545001500860093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_111
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 191
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b62f99ce1418310800000000000000
+      internalID: 1405477043167193900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_112
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 127
+        width: 80
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebee7635d217dd3c0800000000000000
+      internalID: -4333182826973761858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_113
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 63
+        width: 80
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096a989a4069078a0800000000000000
+      internalID: -6309378131177658736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_114
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 127
+        width: 81
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2b07ce248908640800000000000000
+      internalID: 5080227792875991741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_115
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 127
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a94bffb17b722120800000000000000
+      internalID: 2387606480942221735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_116
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 127
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1647ed668472df0800000000000000
+      internalID: -205115651366035029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_117
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 63
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a824df5877259f0800000000000000
+      internalID: -481190792811869652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Castle_Building_118
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 47
+        width: 82
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895e78b27066b76e0800000000000000
+      internalID: -1838763841869585000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Atlas_Castle_Building_0: -5079918751274380367
+      Atlas_Castle_Building_1: -3531139446551458661
+      Atlas_Castle_Building_10: 5386508608234005628
+      Atlas_Castle_Building_100: 2194296340743221525
+      Atlas_Castle_Building_101: 8008584061198478538
+      Atlas_Castle_Building_102: -7142025022583570020
+      Atlas_Castle_Building_103: 8776111651907947451
+      Atlas_Castle_Building_104: -7449335867157764003
+      Atlas_Castle_Building_105: 1002082372309977809
+      Atlas_Castle_Building_106: -5163403562936089680
+      Atlas_Castle_Building_107: -511202800789316722
+      Atlas_Castle_Building_108: 1787845240060842866
+      Atlas_Castle_Building_109: 1673743990208947856
+      Atlas_Castle_Building_11: 1151145924493226909
+      Atlas_Castle_Building_110: 6218545001500860093
+      Atlas_Castle_Building_111: 1405477043167193900
+      Atlas_Castle_Building_112: -4333182826973761858
+      Atlas_Castle_Building_113: -6309378131177658736
+      Atlas_Castle_Building_114: 5080227792875991741
+      Atlas_Castle_Building_115: 2387606480942221735
+      Atlas_Castle_Building_116: -205115651366035029
+      Atlas_Castle_Building_117: -481190792811869652
+      Atlas_Castle_Building_118: -1838763841869585000
+      Atlas_Castle_Building_12: -5171851683670042265
+      Atlas_Castle_Building_13: -973534008821921006
+      Atlas_Castle_Building_14: -5499683843484233318
+      Atlas_Castle_Building_15: -6392781945025276915
+      Atlas_Castle_Building_16: 9198051598304991397
+      Atlas_Castle_Building_17: 3434295982935080295
+      Atlas_Castle_Building_18: -3933042808013970163
+      Atlas_Castle_Building_19: 6723542158616544860
+      Atlas_Castle_Building_2: -1943674094101513025
+      Atlas_Castle_Building_20: -6697267531706841753
+      Atlas_Castle_Building_21: 7603440290692818590
+      Atlas_Castle_Building_22: 1183180859576990374
+      Atlas_Castle_Building_23: 1924363670663362112
+      Atlas_Castle_Building_24: 3771500955581279375
+      Atlas_Castle_Building_25: 2778921876610934386
+      Atlas_Castle_Building_26: -1189321942924145764
+      Atlas_Castle_Building_27: -3616751958414109539
+      Atlas_Castle_Building_28: 5996721946877342063
+      Atlas_Castle_Building_29: 5577836527989120786
+      Atlas_Castle_Building_3: -2148298351309680631
+      Atlas_Castle_Building_30: -2632934887838838171
+      Atlas_Castle_Building_31: 7322727149456838542
+      Atlas_Castle_Building_32: 2682811615237749932
+      Atlas_Castle_Building_33: 9088098016778164081
+      Atlas_Castle_Building_34: -2404484831183851402
+      Atlas_Castle_Building_35: -1736111215812316435
+      Atlas_Castle_Building_36: 1881189100002303814
+      Atlas_Castle_Building_37: 5527004546058267527
+      Atlas_Castle_Building_38: 6382634246614522470
+      Atlas_Castle_Building_39: -964137465549575096
+      Atlas_Castle_Building_4: 2084861176427579922
+      Atlas_Castle_Building_40: -796345321830527974
+      Atlas_Castle_Building_41: 8138753779068069830
+      Atlas_Castle_Building_42: -2609874616944319600
+      Atlas_Castle_Building_43: 6187890723647780209
+      Atlas_Castle_Building_44: 8744035218211470053
+      Atlas_Castle_Building_45: -7188719922422907673
+      Atlas_Castle_Building_46: -9092798501717872534
+      Atlas_Castle_Building_47: 8273182393193254742
+      Atlas_Castle_Building_48: -3076173349104466859
+      Atlas_Castle_Building_49: 6697320747443707810
+      Atlas_Castle_Building_5: 730273957243973648
+      Atlas_Castle_Building_50: 980774988238631300
+      Atlas_Castle_Building_51: 8005786247740885946
+      Atlas_Castle_Building_52: -1119918894043831654
+      Atlas_Castle_Building_53: 6531947256451334258
+      Atlas_Castle_Building_54: -3673893291821341805
+      Atlas_Castle_Building_55: 4791685651526102745
+      Atlas_Castle_Building_56: -8703981903745509458
+      Atlas_Castle_Building_57: -3659627678898884086
+      Atlas_Castle_Building_58: -6404534411597962002
+      Atlas_Castle_Building_59: -4224370703636834338
+      Atlas_Castle_Building_6: 1930395424269649510
+      Atlas_Castle_Building_60: -6805840759968440338
+      Atlas_Castle_Building_61: 2987381419948307109
+      Atlas_Castle_Building_62: -2435290428964643136
+      Atlas_Castle_Building_63: 7958435817722064023
+      Atlas_Castle_Building_64: 4460630518545558007
+      Atlas_Castle_Building_65: 4561066917833080712
+      Atlas_Castle_Building_66: -2422226696108695460
+      Atlas_Castle_Building_67: 7274638947354714010
+      Atlas_Castle_Building_68: 8548586875685028371
+      Atlas_Castle_Building_69: 9190169935881952989
+      Atlas_Castle_Building_7: -3841016708394192135
+      Atlas_Castle_Building_70: 2807594531906108626
+      Atlas_Castle_Building_71: -4781826987172032786
+      Atlas_Castle_Building_72: 3307129693608954371
+      Atlas_Castle_Building_73: -252794231677543445
+      Atlas_Castle_Building_74: -4524992231081279031
+      Atlas_Castle_Building_75: -3764342579952488396
+      Atlas_Castle_Building_76: 731953763734982703
+      Atlas_Castle_Building_77: -327055711461040138
+      Atlas_Castle_Building_78: 6198200856805390062
+      Atlas_Castle_Building_79: -1341079438437552545
+      Atlas_Castle_Building_8: -3480202481537455693
+      Atlas_Castle_Building_80: 7021279347088869779
+      Atlas_Castle_Building_81: -8568779317100371975
+      Atlas_Castle_Building_82: -1429295230378742830
+      Atlas_Castle_Building_83: 3725168044751708951
+      Atlas_Castle_Building_84: 662035282595237104
+      Atlas_Castle_Building_85: -3772330372917087904
+      Atlas_Castle_Building_86: -2449196866640625019
+      Atlas_Castle_Building_87: 7311545412371530290
+      Atlas_Castle_Building_88: -3341424853841428637
+      Atlas_Castle_Building_89: 7012055036704940528
+      Atlas_Castle_Building_9: -4665352407968671749
+      Atlas_Castle_Building_90: -973164782684555303
+      Atlas_Castle_Building_91: -7343764637689075570
+      Atlas_Castle_Building_92: 8698630120520081748
+      Atlas_Castle_Building_93: -5624561352513870691
+      Atlas_Castle_Building_94: 6667485714172080590
+      Atlas_Castle_Building_95: -457320266324570959
+      Atlas_Castle_Building_96: 4783279536321232918
+      Atlas_Castle_Building_97: 6347324396858410932
+      Atlas_Castle_Building_98: 7363667198478379946
+      Atlas_Castle_Building_99: 1102752246135297792
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

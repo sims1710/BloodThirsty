@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: Banner2
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 6171164885635594083, guid: 0c76beece62aab04bb0beda862babaf3, type: 3}
+  - {fileID: 2758916430421177666, guid: 0c76beece62aab04bb0beda862babaf3, type: 3}
+  - {fileID: -5063707388515272678, guid: 0c76beece62aab04bb0beda862babaf3, type: 3}
+  - {fileID: -58925569057064870, guid: 0c76beece62aab04bb0beda862babaf3, type: 3}
+  - {fileID: -5431580251828310489, guid: 0c76beece62aab04bb0beda862babaf3, type: 3}
+  - {fileID: -625394425420358495, guid: 0c76beece62aab04bb0beda862babaf3, type: 3}
+  - {fileID: 5033162846291827062, guid: 0c76beece62aab04bb0beda862babaf3, type: 3}
+  - {fileID: 603851354314139207, guid: 0c76beece62aab04bb0beda862babaf3, type: 3}
+  m_MinSpeed: 4
+  m_MaxSpeed: 4
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0

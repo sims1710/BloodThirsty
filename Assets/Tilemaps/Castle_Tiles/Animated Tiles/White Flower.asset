@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: White Flower
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 8296295293788433906, guid: 6edd29cbb09878449a5f8cfc8b20c83b, type: 3}
+  - {fileID: -7822089585422085720, guid: 6edd29cbb09878449a5f8cfc8b20c83b, type: 3}
+  - {fileID: -1636151668830759552, guid: 6edd29cbb09878449a5f8cfc8b20c83b, type: 3}
+  - {fileID: 8155830244933326241, guid: 6edd29cbb09878449a5f8cfc8b20c83b, type: 3}
+  - {fileID: 2631421674599596278, guid: 6edd29cbb09878449a5f8cfc8b20c83b, type: 3}
+  - {fileID: 6677430046871831116, guid: 6edd29cbb09878449a5f8cfc8b20c83b, type: 3}
+  - {fileID: 1315674415053596947, guid: 6edd29cbb09878449a5f8cfc8b20c83b, type: 3}
+  - {fileID: 1574517275644320082, guid: 6edd29cbb09878449a5f8cfc8b20c83b, type: 3}
+  m_MinSpeed: 2
+  m_MaxSpeed: 2
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0

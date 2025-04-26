@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: Magic Crystal
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 5474782644083860103, guid: 924ae8e603c924444ac7725aa09b3689, type: 3}
+  - {fileID: 5801762611158969987, guid: 924ae8e603c924444ac7725aa09b3689, type: 3}
+  - {fileID: 529778970742524733, guid: 924ae8e603c924444ac7725aa09b3689, type: 3}
+  - {fileID: 929986834313047323, guid: 924ae8e603c924444ac7725aa09b3689, type: 3}
+  - {fileID: 5795263799974391002, guid: 924ae8e603c924444ac7725aa09b3689, type: 3}
+  - {fileID: 8041790412043459970, guid: 924ae8e603c924444ac7725aa09b3689, type: 3}
+  - {fileID: 5598521301150808028, guid: 924ae8e603c924444ac7725aa09b3689, type: 3}
+  - {fileID: -6339341338054427726, guid: 924ae8e603c924444ac7725aa09b3689, type: 3}
+  - {fileID: -340542664730104095, guid: 924ae8e603c924444ac7725aa09b3689, type: 3}
+  - {fileID: 6971141007226742285, guid: 924ae8e603c924444ac7725aa09b3689, type: 3}
+  m_MinSpeed: 5
+  m_MaxSpeed: 6
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0

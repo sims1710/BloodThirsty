@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 8d0dd83111630134bb733089ab7a5bf1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 855558215848122135
+    second: MarketStand_2_0
+  - first:
+      213: -6702472595271384978
+    second: MarketStand_2_1
+  - first:
+      213: 5245582446489548113
+    second: MarketStand_2_2
+  - first:
+      213: -5695221380727352
+    second: MarketStand_2_3
+  - first:
+      213: 1508105012656351240
+    second: MarketStand_2_4
+  - first:
+      213: -2956084714468366089
+    second: MarketStand_2_5
+  - first:
+      213: -1467230482547824286
+    second: MarketStand_2_6
+  - first:
+      213: 1755909295311282487
+    second: MarketStand_2_7
+  - first:
+      213: 2011188792447358560
+    second: MarketStand_2_8
+  - first:
+      213: 1132027930025963259
+    second: MarketStand_2_9
+  - first:
+      213: -1089090451503720844
+    second: MarketStand_2_10
+  - first:
+      213: 7752316934340849320
+    second: MarketStand_2_11
+  - first:
+      213: -4600871900510399962
+    second: MarketStand_2_12
+  - first:
+      213: 7418442183100282126
+    second: MarketStand_2_13
+  - first:
+      213: 8111421142364560457
+    second: MarketStand_2_14
+  - first:
+      213: 4866078197248068548
+    second: MarketStand_2_15
+  - first:
+      213: 6337979806596309171
+    second: MarketStand_2_16
+  - first:
+      213: -1297523123650507830
+    second: MarketStand_2_17
+  - first:
+      213: -7461992375698155943
+    second: MarketStand_2_18
+  - first:
+      213: 8363294161390408183
+    second: MarketStand_2_19
+  - first:
+      213: 4308244615156638566
+    second: MarketStand_2_20
+  - first:
+      213: 7539356633914235807
+    second: MarketStand_2_21
+  - first:
+      213: 4422969349795703068
+    second: MarketStand_2_22
+  - first:
+      213: -6287911728550562630
+    second: MarketStand_2_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MarketStand_2_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 256
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7175b441aad8fdb00800000000000000
+      internalID: 855558215848122135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarketStand_2_1
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 256
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e600f029fa80cf2a0800000000000000
+      internalID: -6702472595271384978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarketStand_2_2
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 256
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155b80b517d0cc840800000000000000
+      internalID: 5245582446489548113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarketStand_2_3
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 256
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd3fa0f934cbeff0800000000000000
+      internalID: -5695221380727352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarketStand_2_4
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 256
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8082e5bc48ddde410800000000000000
+      internalID: 1508105012656351240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarketStand_2_5
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 256
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f8a62c3d90e9f6d0800000000000000
+      internalID: -2956084714468366089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarketStand_2_6
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 256
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 269ac1c56a953abe0800000000000000
+      internalID: -1467230482547824286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarketStand_2_7
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 256
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 731e5dc633e3e5810800000000000000
+      internalID: 1755909295311282487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarketStand_2_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 192
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066521e0d8d29eb10800000000000000
+      internalID: 2011188792447358560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarketStand_2_9
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 192
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfea4059765c5bf00800000000000000
+      internalID: 1132027930025963259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarketStand_2_10
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 192
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 476d9dd2106c2e0f0800000000000000
+      internalID: -1089090451503720844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarketStand_2_11
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 192
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aea1a1ad23c59b60800000000000000
+      internalID: 7752316934340849320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarketStand_2_12
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 192
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6225009026b6620c0800000000000000
+      internalID: -4600871900510399962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarketStand_2_13
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 192
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0537766cd993f660800000000000000
+      internalID: 7418442183100282126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarketStand_2_14
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 192
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c9b368d8e819070800000000000000
+      internalID: 8111421142364560457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarketStand_2_15
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 192
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb8e3cb658c78340800000000000000
+      internalID: 4866078197248068548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarketStand_2_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 64
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0a5c5dd0705f750800000000000000
+      internalID: 6337979806596309171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarketStand_2_17
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 64
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acbc4f6f7954efde0800000000000000
+      internalID: -1297523123650507830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarketStand_2_18
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 64
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95696d9387da17890800000000000000
+      internalID: -7461992375698155943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarketStand_2_19
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 64
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f116c9aab3601470800000000000000
+      internalID: 8363294161390408183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarketStand_2_20
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 64
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663a6e3c6a5f9cb30800000000000000
+      internalID: 4308244615156638566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarketStand_2_21
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 64
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b517fc9ec21a860800000000000000
+      internalID: 7539356633914235807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarketStand_2_22
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 64
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c196303903b816d30800000000000000
+      internalID: 4422969349795703068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarketStand_2_23
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 64
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab43bb00999dcb8a0800000000000000
+      internalID: -6287911728550562630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MarketStand_2_0: 855558215848122135
+      MarketStand_2_1: -6702472595271384978
+      MarketStand_2_10: -1089090451503720844
+      MarketStand_2_11: 7752316934340849320
+      MarketStand_2_12: -4600871900510399962
+      MarketStand_2_13: 7418442183100282126
+      MarketStand_2_14: 8111421142364560457
+      MarketStand_2_15: 4866078197248068548
+      MarketStand_2_16: 6337979806596309171
+      MarketStand_2_17: -1297523123650507830
+      MarketStand_2_18: -7461992375698155943
+      MarketStand_2_19: 8363294161390408183
+      MarketStand_2_2: 5245582446489548113
+      MarketStand_2_20: 4308244615156638566
+      MarketStand_2_21: 7539356633914235807
+      MarketStand_2_22: 4422969349795703068
+      MarketStand_2_23: -6287911728550562630
+      MarketStand_2_3: -5695221380727352
+      MarketStand_2_4: 1508105012656351240
+      MarketStand_2_5: -2956084714468366089
+      MarketStand_2_6: -1467230482547824286
+      MarketStand_2_7: 1755909295311282487
+      MarketStand_2_8: 2011188792447358560
+      MarketStand_2_9: 1132027930025963259
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
