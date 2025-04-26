@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3309932695821245564
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1435348062378994385}
+  - component: {fileID: 8064837301679271158}
+  m_Layer: 0
+  m_Name: AttackUpgradeManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1435348062378994385
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3309932695821245564}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -5.4885316, y: 1.112454, z: -0.08113484}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8064837301679271158
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3309932695821245564}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf424b46002f540a39ffcfe1ceb4cc87, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level1Upgrade: {fileID: 11400000, guid: 38a109282aeb14e309cf167c210164b4, type: 2}
+  level2Upgrade: {fileID: 11400000, guid: 234da5038562a4da59807c002d519a34, type: 2}
+  level3Upgrade: {fileID: 11400000, guid: b77e40929b8384dbbb67e858d505fd4a, type: 2}
+  playerHitbox: {fileID: 0}
+  upgradeEffectPrefab: {fileID: 0}
+  effectDuration: 2
+  level1Color: {r: 0.5, g: 1, b: 0.5, a: 1}
+  level2Color: {r: 0.5, g: 0.5, b: 1, a: 1}
+  level3Color: {r: 1, g: 0.5, b: 0.5, a: 1}
+  upgradeSound: {fileID: 8300000, guid: f2e7e4b67b53b41179ca696955b9b9b3, type: 3}
+  upgradeVolume: 0.7

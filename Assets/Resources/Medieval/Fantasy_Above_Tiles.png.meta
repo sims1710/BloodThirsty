@@ -1,0 +1,6371 @@
+fileFormatVersion: 2
+guid: 6e00d13879da59040a4f54fb521d7d9c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5850525403696795384
+    second: Fantasy_Above_Tiles_0
+  - first:
+      213: -6674803894434419969
+    second: Fantasy_Above_Tiles_1
+  - first:
+      213: 2078634579136844544
+    second: Fantasy_Above_Tiles_2
+  - first:
+      213: -1830586852148191030
+    second: Fantasy_Above_Tiles_3
+  - first:
+      213: 3268673002859519503
+    second: Fantasy_Above_Tiles_4
+  - first:
+      213: -4945350718358307264
+    second: Fantasy_Above_Tiles_5
+  - first:
+      213: -814470320201504074
+    second: Fantasy_Above_Tiles_6
+  - first:
+      213: 5877152022666119940
+    second: Fantasy_Above_Tiles_7
+  - first:
+      213: -2594736490962942962
+    second: Fantasy_Above_Tiles_8
+  - first:
+      213: 2277454031611809630
+    second: Fantasy_Above_Tiles_9
+  - first:
+      213: 1782232153343132089
+    second: Fantasy_Above_Tiles_10
+  - first:
+      213: 1866659080836002837
+    second: Fantasy_Above_Tiles_11
+  - first:
+      213: -7159795986060988126
+    second: Fantasy_Above_Tiles_12
+  - first:
+      213: -160809611315503696
+    second: Fantasy_Above_Tiles_13
+  - first:
+      213: -8267302024351116964
+    second: Fantasy_Above_Tiles_14
+  - first:
+      213: 1090855441651493378
+    second: Fantasy_Above_Tiles_15
+  - first:
+      213: 3443468799406869292
+    second: Fantasy_Above_Tiles_16
+  - first:
+      213: -8172583845754553942
+    second: Fantasy_Above_Tiles_17
+  - first:
+      213: 6059871783334087012
+    second: Fantasy_Above_Tiles_18
+  - first:
+      213: 3592968495471880733
+    second: Fantasy_Above_Tiles_19
+  - first:
+      213: -1597650071114860487
+    second: Fantasy_Above_Tiles_20
+  - first:
+      213: -6876600168114745443
+    second: Fantasy_Above_Tiles_21
+  - first:
+      213: -3792473461827319380
+    second: Fantasy_Above_Tiles_22
+  - first:
+      213: -6332101273122903589
+    second: Fantasy_Above_Tiles_23
+  - first:
+      213: 8914448258642251608
+    second: Fantasy_Above_Tiles_24
+  - first:
+      213: 4247887009606992842
+    second: Fantasy_Above_Tiles_25
+  - first:
+      213: 667249280139716600
+    second: Fantasy_Above_Tiles_26
+  - first:
+      213: 5643494390245974956
+    second: Fantasy_Above_Tiles_27
+  - first:
+      213: 4415401432598197077
+    second: Fantasy_Above_Tiles_28
+  - first:
+      213: 7081395462332443608
+    second: Fantasy_Above_Tiles_29
+  - first:
+      213: 6333811277819493895
+    second: Fantasy_Above_Tiles_30
+  - first:
+      213: -8907942677409243363
+    second: Fantasy_Above_Tiles_31
+  - first:
+      213: 6739549799282660115
+    second: Fantasy_Above_Tiles_32
+  - first:
+      213: -7721919555740687791
+    second: Fantasy_Above_Tiles_33
+  - first:
+      213: -6273752287314111103
+    second: Fantasy_Above_Tiles_34
+  - first:
+      213: 8257558272854253879
+    second: Fantasy_Above_Tiles_35
+  - first:
+      213: 3255468989177500139
+    second: Fantasy_Above_Tiles_36
+  - first:
+      213: -9199355337717787459
+    second: Fantasy_Above_Tiles_37
+  - first:
+      213: -826207067013442327
+    second: Fantasy_Above_Tiles_38
+  - first:
+      213: -2260662769101728964
+    second: Fantasy_Above_Tiles_39
+  - first:
+      213: -1064870314514331343
+    second: Fantasy_Above_Tiles_40
+  - first:
+      213: 2345366475984576828
+    second: Fantasy_Above_Tiles_41
+  - first:
+      213: 7888179827441087118
+    second: Fantasy_Above_Tiles_42
+  - first:
+      213: -25710965306067701
+    second: Fantasy_Above_Tiles_43
+  - first:
+      213: -420385032913052066
+    second: Fantasy_Above_Tiles_44
+  - first:
+      213: -8945721971080416183
+    second: Fantasy_Above_Tiles_45
+  - first:
+      213: 8128550557103706700
+    second: Fantasy_Above_Tiles_46
+  - first:
+      213: -7003001078524755617
+    second: Fantasy_Above_Tiles_47
+  - first:
+      213: 950968782121751144
+    second: Fantasy_Above_Tiles_48
+  - first:
+      213: 2671634512917935480
+    second: Fantasy_Above_Tiles_49
+  - first:
+      213: -5938940247115464522
+    second: Fantasy_Above_Tiles_50
+  - first:
+      213: -6015713664529242654
+    second: Fantasy_Above_Tiles_51
+  - first:
+      213: -5050415805461746071
+    second: Fantasy_Above_Tiles_52
+  - first:
+      213: 2993043201077786316
+    second: Fantasy_Above_Tiles_53
+  - first:
+      213: -8904244485900439725
+    second: Fantasy_Above_Tiles_54
+  - first:
+      213: 4962104745143318475
+    second: Fantasy_Above_Tiles_55
+  - first:
+      213: 2696360538008453870
+    second: Fantasy_Above_Tiles_56
+  - first:
+      213: -6594747028382171144
+    second: Fantasy_Above_Tiles_57
+  - first:
+      213: -4737294305808395070
+    second: Fantasy_Above_Tiles_58
+  - first:
+      213: 3250101149878154210
+    second: Fantasy_Above_Tiles_59
+  - first:
+      213: 4555514160078677220
+    second: Fantasy_Above_Tiles_60
+  - first:
+      213: 292114460766451019
+    second: Fantasy_Above_Tiles_61
+  - first:
+      213: 6208768641180064423
+    second: Fantasy_Above_Tiles_62
+  - first:
+      213: -1633984642767516955
+    second: Fantasy_Above_Tiles_63
+  - first:
+      213: 3088425734678322950
+    second: Fantasy_Above_Tiles_64
+  - first:
+      213: -1546943499070444264
+    second: Fantasy_Above_Tiles_65
+  - first:
+      213: -5290690212175050696
+    second: Fantasy_Above_Tiles_66
+  - first:
+      213: -6008369454905613933
+    second: Fantasy_Above_Tiles_67
+  - first:
+      213: -6478506720630668937
+    second: Fantasy_Above_Tiles_68
+  - first:
+      213: -2335823031317671877
+    second: Fantasy_Above_Tiles_69
+  - first:
+      213: -8223273583473252267
+    second: Fantasy_Above_Tiles_70
+  - first:
+      213: 1570252888996520225
+    second: Fantasy_Above_Tiles_71
+  - first:
+      213: -7262154901222598066
+    second: Fantasy_Above_Tiles_72
+  - first:
+      213: -4755676028947916444
+    second: Fantasy_Above_Tiles_73
+  - first:
+      213: 2355663036618811390
+    second: Fantasy_Above_Tiles_74
+  - first:
+      213: -4713507526607621531
+    second: Fantasy_Above_Tiles_75
+  - first:
+      213: 8657911528507224021
+    second: Fantasy_Above_Tiles_76
+  - first:
+      213: 3056506092207610181
+    second: Fantasy_Above_Tiles_77
+  - first:
+      213: 1254338850523590620
+    second: Fantasy_Above_Tiles_78
+  - first:
+      213: 9218981880917437316
+    second: Fantasy_Above_Tiles_79
+  - first:
+      213: 3151439913086052296
+    second: Fantasy_Above_Tiles_80
+  - first:
+      213: 6153546265940482437
+    second: Fantasy_Above_Tiles_81
+  - first:
+      213: 6513883237017717776
+    second: Fantasy_Above_Tiles_82
+  - first:
+      213: -4006715980519613020
+    second: Fantasy_Above_Tiles_83
+  - first:
+      213: -4145641201943752442
+    second: Fantasy_Above_Tiles_84
+  - first:
+      213: -8537228840894876220
+    second: Fantasy_Above_Tiles_85
+  - first:
+      213: -7207586896254572762
+    second: Fantasy_Above_Tiles_86
+  - first:
+      213: 7601188943999531682
+    second: Fantasy_Above_Tiles_87
+  - first:
+      213: 8931054207187310979
+    second: Fantasy_Above_Tiles_88
+  - first:
+      213: -7261181132970981699
+    second: Fantasy_Above_Tiles_89
+  - first:
+      213: 6966805189260579587
+    second: Fantasy_Above_Tiles_90
+  - first:
+      213: 4168238774614136755
+    second: Fantasy_Above_Tiles_91
+  - first:
+      213: 2993280821516800710
+    second: Fantasy_Above_Tiles_92
+  - first:
+      213: -7326450894305417881
+    second: Fantasy_Above_Tiles_93
+  - first:
+      213: 2559763989012547453
+    second: Fantasy_Above_Tiles_94
+  - first:
+      213: 4226806571816284885
+    second: Fantasy_Above_Tiles_95
+  - first:
+      213: -5029479173169728994
+    second: Fantasy_Above_Tiles_96
+  - first:
+      213: -236812481635453617
+    second: Fantasy_Above_Tiles_97
+  - first:
+      213: -297649043388630352
+    second: Fantasy_Above_Tiles_98
+  - first:
+      213: -4050468306264685962
+    second: Fantasy_Above_Tiles_99
+  - first:
+      213: -623253614706646568
+    second: Fantasy_Above_Tiles_100
+  - first:
+      213: 2540633075017430908
+    second: Fantasy_Above_Tiles_101
+  - first:
+      213: 7764279793286452757
+    second: Fantasy_Above_Tiles_102
+  - first:
+      213: -599138746576817153
+    second: Fantasy_Above_Tiles_103
+  - first:
+      213: -4906582378086290565
+    second: Fantasy_Above_Tiles_104
+  - first:
+      213: -7717038819943426880
+    second: Fantasy_Above_Tiles_105
+  - first:
+      213: -2890197949689357731
+    second: Fantasy_Above_Tiles_106
+  - first:
+      213: -3627078885484198905
+    second: Fantasy_Above_Tiles_107
+  - first:
+      213: 7936958828016462897
+    second: Fantasy_Above_Tiles_108
+  - first:
+      213: -777693643922986324
+    second: Fantasy_Above_Tiles_109
+  - first:
+      213: -7411655833025821281
+    second: Fantasy_Above_Tiles_110
+  - first:
+      213: 115221472529149608
+    second: Fantasy_Above_Tiles_111
+  - first:
+      213: -3098696126928384770
+    second: Fantasy_Above_Tiles_112
+  - first:
+      213: 7180215801915779052
+    second: Fantasy_Above_Tiles_113
+  - first:
+      213: -4455423517346885625
+    second: Fantasy_Above_Tiles_114
+  - first:
+      213: -1775130064697628740
+    second: Fantasy_Above_Tiles_115
+  - first:
+      213: -2716944218950496763
+    second: Fantasy_Above_Tiles_116
+  - first:
+      213: 1599202226443257997
+    second: Fantasy_Above_Tiles_117
+  - first:
+      213: 4860153579318366234
+    second: Fantasy_Above_Tiles_118
+  - first:
+      213: 7789608103813154486
+    second: Fantasy_Above_Tiles_119
+  - first:
+      213: 5821829965163289890
+    second: Fantasy_Above_Tiles_120
+  - first:
+      213: -3841987007686914320
+    second: Fantasy_Above_Tiles_121
+  - first:
+      213: 5138184212166113760
+    second: Fantasy_Above_Tiles_122
+  - first:
+      213: 6440192602470140144
+    second: Fantasy_Above_Tiles_123
+  - first:
+      213: 5835006523624074025
+    second: Fantasy_Above_Tiles_124
+  - first:
+      213: 458841728016963754
+    second: Fantasy_Above_Tiles_125
+  - first:
+      213: -5497622230575320989
+    second: Fantasy_Above_Tiles_126
+  - first:
+      213: 9073020559657954067
+    second: Fantasy_Above_Tiles_127
+  - first:
+      213: 4309867017102100600
+    second: Fantasy_Above_Tiles_128
+  - first:
+      213: 3670350468210686864
+    second: Fantasy_Above_Tiles_129
+  - first:
+      213: -3722716173051938198
+    second: Fantasy_Above_Tiles_130
+  - first:
+      213: -7355573328231709560
+    second: Fantasy_Above_Tiles_131
+  - first:
+      213: 7663667785045703191
+    second: Fantasy_Above_Tiles_132
+  - first:
+      213: 8247762939979432505
+    second: Fantasy_Above_Tiles_133
+  - first:
+      213: 1146510778523179991
+    second: Fantasy_Above_Tiles_134
+  - first:
+      213: -7181268381813978530
+    second: Fantasy_Above_Tiles_135
+  - first:
+      213: -8869254688393674343
+    second: Fantasy_Above_Tiles_136
+  - first:
+      213: -5729545288089186614
+    second: Fantasy_Above_Tiles_137
+  - first:
+      213: -3634983271467905456
+    second: Fantasy_Above_Tiles_138
+  - first:
+      213: 4678332852364416875
+    second: Fantasy_Above_Tiles_139
+  - first:
+      213: 8089837658712992351
+    second: Fantasy_Above_Tiles_140
+  - first:
+      213: -8592150210908961304
+    second: Fantasy_Above_Tiles_141
+  - first:
+      213: -7147237625025029310
+    second: Fantasy_Above_Tiles_142
+  - first:
+      213: 5563629388238586512
+    second: Fantasy_Above_Tiles_143
+  - first:
+      213: -3658861363394083518
+    second: Fantasy_Above_Tiles_144
+  - first:
+      213: -5671185277403136003
+    second: Fantasy_Above_Tiles_145
+  - first:
+      213: -4332898064656736024
+    second: Fantasy_Above_Tiles_146
+  - first:
+      213: -4403006961629080638
+    second: Fantasy_Above_Tiles_147
+  - first:
+      213: 8199207360269379644
+    second: Fantasy_Above_Tiles_148
+  - first:
+      213: -2260211860590208531
+    second: Fantasy_Above_Tiles_149
+  - first:
+      213: 8919970367706764462
+    second: Fantasy_Above_Tiles_150
+  - first:
+      213: 5099606925800783134
+    second: Fantasy_Above_Tiles_151
+  - first:
+      213: 6130868246872044252
+    second: Fantasy_Above_Tiles_152
+  - first:
+      213: -1805287528221164528
+    second: Fantasy_Above_Tiles_153
+  - first:
+      213: -7182456635612744054
+    second: Fantasy_Above_Tiles_154
+  - first:
+      213: -2480071948695477260
+    second: Fantasy_Above_Tiles_155
+  - first:
+      213: -421812860697211954
+    second: Fantasy_Above_Tiles_156
+  - first:
+      213: -7476376142373380014
+    second: Fantasy_Above_Tiles_157
+  - first:
+      213: -4594292084853955140
+    second: Fantasy_Above_Tiles_158
+  - first:
+      213: -7117533886672717335
+    second: Fantasy_Above_Tiles_159
+  - first:
+      213: 2493802857849696251
+    second: Fantasy_Above_Tiles_160
+  - first:
+      213: -7050199883040137498
+    second: Fantasy_Above_Tiles_161
+  - first:
+      213: -739462383385680058
+    second: Fantasy_Above_Tiles_162
+  - first:
+      213: -1619272049025315790
+    second: Fantasy_Above_Tiles_163
+  - first:
+      213: 5542958695880635792
+    second: Fantasy_Above_Tiles_164
+  - first:
+      213: -3469610535593627122
+    second: Fantasy_Above_Tiles_165
+  - first:
+      213: 9136624419695959189
+    second: Fantasy_Above_Tiles_166
+  - first:
+      213: -1826053022854985610
+    second: Fantasy_Above_Tiles_167
+  - first:
+      213: -1050160744178243214
+    second: Fantasy_Above_Tiles_168
+  - first:
+      213: -3377491609514581927
+    second: Fantasy_Above_Tiles_169
+  - first:
+      213: 2322702749913123886
+    second: Fantasy_Above_Tiles_170
+  - first:
+      213: 3512126090500457535
+    second: Fantasy_Above_Tiles_171
+  - first:
+      213: -1813477380196671747
+    second: Fantasy_Above_Tiles_172
+  - first:
+      213: 6018342022943799720
+    second: Fantasy_Above_Tiles_173
+  - first:
+      213: 3737963019686957910
+    second: Fantasy_Above_Tiles_174
+  - first:
+      213: 7282717964701538090
+    second: Fantasy_Above_Tiles_175
+  - first:
+      213: 6381526917228332859
+    second: Fantasy_Above_Tiles_176
+  - first:
+      213: -8867920026136993168
+    second: Fantasy_Above_Tiles_177
+  - first:
+      213: 1231988187539646100
+    second: Fantasy_Above_Tiles_178
+  - first:
+      213: -1193180649355728482
+    second: Fantasy_Above_Tiles_179
+  - first:
+      213: -621038027905358801
+    second: Fantasy_Above_Tiles_180
+  - first:
+      213: 965299506756153098
+    second: Fantasy_Above_Tiles_181
+  - first:
+      213: 3445819076725905523
+    second: Fantasy_Above_Tiles_182
+  - first:
+      213: -1702729137275024828
+    second: Fantasy_Above_Tiles_183
+  - first:
+      213: 6697050026869843855
+    second: Fantasy_Above_Tiles_184
+  - first:
+      213: 2435526009940847205
+    second: Fantasy_Above_Tiles_185
+  - first:
+      213: 7561513892414882556
+    second: Fantasy_Above_Tiles_186
+  - first:
+      213: -5440340863720842166
+    second: Fantasy_Above_Tiles_187
+  - first:
+      213: -5392201430661092760
+    second: Fantasy_Above_Tiles_188
+  - first:
+      213: -2046078843468639339
+    second: Fantasy_Above_Tiles_189
+  - first:
+      213: -2338317376337009269
+    second: Fantasy_Above_Tiles_190
+  - first:
+      213: 5792393330162032612
+    second: Fantasy_Above_Tiles_191
+  - first:
+      213: -6763607318866458381
+    second: Fantasy_Above_Tiles_192
+  - first:
+      213: -2717066837283640098
+    second: Fantasy_Above_Tiles_193
+  - first:
+      213: 3853758768973791096
+    second: Fantasy_Above_Tiles_194
+  - first:
+      213: 7175196790461771807
+    second: Fantasy_Above_Tiles_195
+  - first:
+      213: 2665922164357433824
+    second: Fantasy_Above_Tiles_196
+  - first:
+      213: 5303942731468491889
+    second: Fantasy_Above_Tiles_197
+  - first:
+      213: -317549068705211873
+    second: Fantasy_Above_Tiles_198
+  - first:
+      213: -7036666295177321743
+    second: Fantasy_Above_Tiles_199
+  - first:
+      213: 739090692475067807
+    second: Fantasy_Above_Tiles_200
+  - first:
+      213: 4614971717968774815
+    second: Fantasy_Above_Tiles_201
+  - first:
+      213: 7562170276176770880
+    second: Fantasy_Above_Tiles_202
+  - first:
+      213: -3113142992676470263
+    second: Fantasy_Above_Tiles_203
+  - first:
+      213: -6110053903484910309
+    second: Fantasy_Above_Tiles_204
+  - first:
+      213: -1706742770673006344
+    second: Fantasy_Above_Tiles_205
+  - first:
+      213: -7857296456755516064
+    second: Fantasy_Above_Tiles_206
+  - first:
+      213: 5485910891037216742
+    second: Fantasy_Above_Tiles_207
+  - first:
+      213: 4305437126672577343
+    second: Fantasy_Above_Tiles_208
+  - first:
+      213: 8618582789677543223
+    second: Fantasy_Above_Tiles_209
+  - first:
+      213: 6380075372268837196
+    second: Fantasy_Above_Tiles_210
+  - first:
+      213: -429988992745962817
+    second: Fantasy_Above_Tiles_211
+  - first:
+      213: 4939102336749923777
+    second: Fantasy_Above_Tiles_212
+  - first:
+      213: 7393716128622327234
+    second: Fantasy_Above_Tiles_213
+  - first:
+      213: 3388886181624646523
+    second: Fantasy_Above_Tiles_214
+  - first:
+      213: 2258130517169304456
+    second: Fantasy_Above_Tiles_215
+  - first:
+      213: -1241101724421687384
+    second: Fantasy_Above_Tiles_216
+  - first:
+      213: -4177580975380232808
+    second: Fantasy_Above_Tiles_217
+  - first:
+      213: -5861139704005466263
+    second: Fantasy_Above_Tiles_218
+  - first:
+      213: 4796147547220780634
+    second: Fantasy_Above_Tiles_219
+  - first:
+      213: -1733616699812460953
+    second: Fantasy_Above_Tiles_220
+  - first:
+      213: 2276624773947521470
+    second: Fantasy_Above_Tiles_221
+  - first:
+      213: -5148506975836886448
+    second: Fantasy_Above_Tiles_222
+  - first:
+      213: 1823370413387253707
+    second: Fantasy_Above_Tiles_223
+  - first:
+      213: -2178428640611123429
+    second: Fantasy_Above_Tiles_224
+  - first:
+      213: 6646848468885878034
+    second: Fantasy_Above_Tiles_225
+  - first:
+      213: 8904073436903705029
+    second: Fantasy_Above_Tiles_226
+  - first:
+      213: 6888838277168334138
+    second: Fantasy_Above_Tiles_227
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1009
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe0fb47bdd313150800000000000000
+      internalID: 5850525403696795384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1009
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffaa7def8355e53a0800000000000000
+      internalID: -6674803894434419969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_2
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1009
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0039b4bf22bc8dc10800000000000000
+      internalID: 2078634579136844544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_3
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1013
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0e433f4f27896e0800000000000000
+      internalID: -1830586852148191030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1009
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ed95627c8ac5d20800000000000000
+      internalID: 3268673002859519503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_5
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1010
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04eb78629b59e5bb0800000000000000
+      internalID: -4945350718358307264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_6
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1009
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba6a4c1f8b62b4f0800000000000000
+      internalID: -814470320201504074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_7
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1009
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b8bf940a6df8150800000000000000
+      internalID: 5877152022666119940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_8
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1009
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e040962b8e4adfbd0800000000000000
+      internalID: -2594736490962942962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_9
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1009
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5fc08210642b9f10800000000000000
+      internalID: 2277454031611809630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_10
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1011
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b10c4763b2cbb810800000000000000
+      internalID: 1782232153343132089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_11
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1009
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514bcf54b84b7e910800000000000000
+      internalID: 1866659080836002837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_12
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1009
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22131922c7b43ac90800000000000000
+      internalID: -7159795986060988126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_13
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1010
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd1211b280b4cdf0800000000000000
+      internalID: -160809611315503696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabinet_top
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1007
+        width: 50
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c511fa36c94a44d80800000000000000
+      internalID: -8267302024351116964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_16
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1008
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b89c7f0a8a9cf20800000000000000
+      internalID: 3443468799406869292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_17
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 993
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa934b0ea46259e80800000000000000
+      internalID: -8172583845754553942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_18
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 981
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4698a06c74df81450800000000000000
+      internalID: 6059871783334087012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_19
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 981
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a65cd6fc9ccd130800000000000000
+      internalID: 3592968495471880733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 993
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f0125b4986190a0800000000000000
+      internalID: -6876600168114745443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_22
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 993
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9cfa7da7d6e5bc0800000000000000
+      internalID: -3792473461827319380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_23
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 993
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9e5b5e07bdf18a0800000000000000
+      internalID: -6332101273122903589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_24
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 993
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f88f0e57b76bb70800000000000000
+      internalID: 8914448258642251608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_25
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 993
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac30f9d9ab683fa30800000000000000
+      internalID: 4247887009606992842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_26
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 994
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7ec5f5fab824900800000000000000
+      internalID: 667249280139716600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_27
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 992
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca365865f38b15e40800000000000000
+      internalID: 5643494390245974956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 994
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55334ca8538a64d30800000000000000
+      internalID: 4415401432598197077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 978
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e3bc89cc736e750800000000000000
+      internalID: 6333811277819493895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_31
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 978
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1fda79c451a06480800000000000000
+      internalID: -8907942677409243363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_32
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 977
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3135c44b5d0b78d50800000000000000
+      internalID: 6739549799282660115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_33
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 977
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1522fe7931b36d490800000000000000
+      internalID: -7721919555740687791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_34
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 977
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18519d1d8872fe8a0800000000000000
+      internalID: -6273752287314111103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_35
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 977
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731e09daf7db89270800000000000000
+      internalID: 8257558272854253879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_36
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 962
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be199352ccfbd2d20800000000000000
+      internalID: 3255468989177500139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_37
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 977
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4dcb48f03555080800000000000000
+      internalID: -9199355337717787459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_38
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 977
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e41fbbcc09b884f0800000000000000
+      internalID: -826207067013442327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_39
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 961
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c339db2603380a0e0800000000000000
+      internalID: -2260662769101728964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_40
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 961
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139c3834712d831f0800000000000000
+      internalID: -1064870314514331343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_41
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 961
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31ab25326a6c8020800000000000000
+      internalID: 2345366475984576828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_42
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 961
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82370b72c1787d60800000000000000
+      internalID: 7888179827441087118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_43
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 963
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0579166308a4aff0800000000000000
+      internalID: -25710965306067701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_44
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 961
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e93543a0e7a2af0800000000000000
+      internalID: -420385032913052066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_45
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 962
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944385683496ad380800000000000000
+      internalID: -8945721971080416183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 945
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4258fe2aa96ec070800000000000000
+      internalID: 8128550557103706700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_47
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 944
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51cad06f9750de90800000000000000
+      internalID: -7003001078524755617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_48
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 948
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8625ad2a115823d00800000000000000
+      internalID: 950968782121751144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_49
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 946
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875b5204f6d831520800000000000000
+      internalID: 2671634512917935480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_50
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 946
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b08964af45a49da0800000000000000
+      internalID: -5938940247115464522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop-items
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 943
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e565437b44e38ca0800000000000000
+      internalID: -6015713664529242654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 929
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e2f6b459159e9b0800000000000000
+      internalID: -5050415805461746071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_53
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 929
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6b3adfeec698920800000000000000
+      internalID: 2993043201077786316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_54
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 913
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f6ca811d4cd6480800000000000000
+      internalID: -8904244485900439725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_55
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 929
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc73c80b9ffecd440800000000000000
+      internalID: 4962104745143318475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_56
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 911
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee200669f956b6520800000000000000
+      internalID: 2696360538008453870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_57
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 929
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ffb7b5a480ca74a0800000000000000
+      internalID: -6594747028382171144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 929
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c45fc99defb14eb0800000000000000
+      internalID: -4737294305808395070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_59
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 927
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3739aa6cdaa1d20800000000000000
+      internalID: 3250101149878154210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_60
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 927
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e460c01eff683f30800000000000000
+      internalID: 4555514160078677220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_61
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 913
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b453dbbed8ccd0400800000000000000
+      internalID: 292114460766451019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_62
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 927
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa5f160f2af92650800000000000000
+      internalID: 6208768641180064423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_63
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 916
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea0667ef9be259e0800000000000000
+      internalID: -1633984642767516955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_64
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 913
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f1daea7da4cda20800000000000000
+      internalID: 3088425734678322950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_65
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 917
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d6e4a6517288ae0800000000000000
+      internalID: -1546943499070444264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_66
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 916
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8388ba68841b396b0800000000000000
+      internalID: -5290690212175050696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_67
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 913
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3912b0180dbfd9ca0800000000000000
+      internalID: -6008369454905613933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 895
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77104d15678b716a0800000000000000
+      internalID: -6478506720630668937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 863
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b305228245d759fd0800000000000000
+      internalID: -2335823031317671877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_70
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 879
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558293e9e3011ed80800000000000000
+      internalID: -8223273583473252267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_71
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 879
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1212b28dea8aac510800000000000000
+      internalID: 1570252888996520225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_72
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 895
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ad3c80894a73b90800000000000000
+      internalID: -7262154901222598066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_73
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 890
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46918bb29d1700eb0800000000000000
+      internalID: -4755676028947916444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_75
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 866
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5623c66b0e1469eb0800000000000000
+      internalID: -4713507526607621531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_76
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 870
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dfae61e9a4172870800000000000000
+      internalID: 8657911528507224021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_77
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 864
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5491ad7c814ea6a20800000000000000
+      internalID: 3056506092207610181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_78
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 864
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf2e6de98e486110800000000000000
+      internalID: 1254338850523590620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_79
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 850
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ba8da2d2760ff70800000000000000
+      internalID: 9218981880917437316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_80
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 863
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c76b7667e92cbb20800000000000000
+      internalID: 3151439913086052296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_81
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 849
+        width: 50
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589505ad9b9c56550800000000000000
+      internalID: 6153546265940482437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_82
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 865
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c00d2ca46f56a50800000000000000
+      internalID: 6513883237017717776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_83
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 847
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad5f315b094568c0800000000000000
+      internalID: -4006715980519613020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_84
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 865
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6015be79a49b776c0800000000000000
+      internalID: -4145641201943752442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_85
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 864
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5bd34f99ba58980800000000000000
+      internalID: -8537228840894876220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: table_stand
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 865
+        width: 49
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aaf7bd5219dc7960800000000000000
+      internalID: 7601188943999531682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 847
+        width: 65
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38958219b7a71fb70800000000000000
+      internalID: 8931054207187310979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_89
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 847
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db60f7f1b3a1b3b90800000000000000
+      internalID: -7261181132970981699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 836
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303993d68601fa060800000000000000
+      internalID: 6966805189260579587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_91
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 849
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b792ebc41f88d930800000000000000
+      internalID: 4168238774614136755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_92
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 842
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c29f7f4c054a8920800000000000000
+      internalID: 2993280821516800710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_93
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 832
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76525949ab7335a90800000000000000
+      internalID: -7326450894305417881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_94
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 854
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d770ee929cb168320800000000000000
+      internalID: 2559763989012547453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_95
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 849
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d27567be22a8aa30800000000000000
+      internalID: 4226806571816284885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_96
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 854
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e123efdd653b33ab0800000000000000
+      internalID: -5029479173169728994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_97
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 849
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f457db97d4ca6bcf0800000000000000
+      internalID: -236812481635453617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_98
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 849
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0baf515a5c98edbf0800000000000000
+      internalID: -297649043388630352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_99
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 849
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6728d172988d9c7c0800000000000000
+      internalID: -4050468306264685962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 835
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1ae6ab322c957f0800000000000000
+      internalID: -623253614706646568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_101
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 835
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77b5052254224320800000000000000
+      internalID: 2540633075017430908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_102
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 833
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5161597c55340cb60800000000000000
+      internalID: 7764279793286452757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_103
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 834
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3bd1ffb7e6fa7f0800000000000000
+      internalID: -599138746576817153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_104
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 833
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ba9f4c25158ebb0800000000000000
+      internalID: -4906582378086290565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_105
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 835
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c45f53741297e490800000000000000
+      internalID: -7717038819943426880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_106
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 833
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a14361744f3e7d0800000000000000
+      internalID: -2890197949689357731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_107
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 835
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704056288f60aadc0800000000000000
+      internalID: -3627078885484198905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_108
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 832
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c62d4900eb52e60800000000000000
+      internalID: 7936958828016462897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_109
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 833
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa24e150c31535f0800000000000000
+      internalID: -777693643922986324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_110
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 837
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f954b0bd942842990800000000000000
+      internalID: -7411655833025821281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_111
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 832
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aee89c9159599100800000000000000
+      internalID: 115221472529149608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_112
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 839
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc0e874a483ff4d0800000000000000
+      internalID: -3098696126928384770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_113
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 831
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce726dbba3045a360800000000000000
+      internalID: 7180215801915779052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_114
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 833
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7001e94bae72b22c0800000000000000
+      internalID: -4455423517346885625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_115
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 837
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7e4977c987d57e0800000000000000
+      internalID: -1775130064697628740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_116
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 833
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e87eab0a97b4ad0800000000000000
+      internalID: -2716944218950496763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_117
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 823
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d880a27b3f1813610800000000000000
+      internalID: 1599202226443257997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_118
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 817
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a105d112eebb27340800000000000000
+      internalID: 4860153579318366234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_119
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 817
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6894f9c4f3a1c60800000000000000
+      internalID: 7789608103813154486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_120
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 817
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d5848028b4bc050800000000000000
+      internalID: 5821829965163289890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_121
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 801
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fec7271c258eaac0800000000000000
+      internalID: -3841987007686914320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_122
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 801
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e97ea4515f7e4740800000000000000
+      internalID: 5138184212166113760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_123
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 809
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8c453ec09206950800000000000000
+      internalID: 6440192602470140144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_124
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 802
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b23be948b1af050800000000000000
+      internalID: 5835006523624074025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curtains
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 792
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8d39ede122e5600800000000000000
+      internalID: 458841728016963754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_126
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 804
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360744d75b584b3b0800000000000000
+      internalID: -5497622230575320989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_127
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 817
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b6a3ac028d9ed70800000000000000
+      internalID: 9073020559657954067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_128
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 817
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8780b87a739bfcb30800000000000000
+      internalID: 4309867017102100600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_129
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 821
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09bf2e2fd44bfe230800000000000000
+      internalID: 3670350468210686864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_130
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 785
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a33a94d51465cc0800000000000000
+      internalID: -3722716173051938198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_131
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 770
+        width: 29
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884496b8701cbe990800000000000000
+      internalID: -7355573328231709560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_132
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 801
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71af0442f31da5a60800000000000000
+      internalID: 7663667785045703191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_133
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 785
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9320b1502b0f57270800000000000000
+      internalID: 8247762939979432505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_134
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 801
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dbd7058a7939ef00800000000000000
+      internalID: 1146510778523179991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_135
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 801
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5acb396472075c90800000000000000
+      internalID: -7181268381813978530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_136
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 774
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991c3db2ad31ae480800000000000000
+      internalID: -8869254688393674343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_137
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 768
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace4eeabae09c70b0800000000000000
+      internalID: -5729545288089186614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_138
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 799
+        width: 30
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e0bab39f1fd8dc0800000000000000
+      internalID: -3634983271467905456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_139
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 794
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67983e31f6cce040800000000000000
+      internalID: 4678332852364416875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_140
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 791
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a6a222d70e44070800000000000000
+      internalID: 8089837658712992351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_141
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 799
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e549f508ec82c880800000000000000
+      internalID: -8592150210908961304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_142
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 799
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b931b6f39efcc90800000000000000
+      internalID: -7147237625025029310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: door-opening
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 688
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09282e3837bf53d40800000000000000
+      internalID: 5563629388238586512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_144
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 786
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2458e78b9fc193dc0800000000000000
+      internalID: -3658861363394083518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_145
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 769
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfff5f49907eb41b0800000000000000
+      internalID: -5671185277403136003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_146
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 776
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e06828ba247ed3c0800000000000000
+      internalID: -4332898064656736024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_147
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 777
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3d68c1f7065e2c0800000000000000
+      internalID: -4403006961629080638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_148
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 783
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38ef9427af69c170800000000000000
+      internalID: 8199207360269379644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_149
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 775
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de95564b94d12a0e0800000000000000
+      internalID: -2260211860590208531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_150
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 774
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea41c261ac91acb70800000000000000
+      internalID: 8919970367706764462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_151
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 774
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d3a7aea7175c640800000000000000
+      internalID: 5099606925800783134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_152
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 775
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2b7831038351550800000000000000
+      internalID: 6130868246872044252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_153
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 771
+        width: 50
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c3fe2de8452f6e0800000000000000
+      internalID: -1805287528221164528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_154
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 771
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86b7a38eb9c25c90800000000000000
+      internalID: -7182456635612744054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_155
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 769
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f36890e3b3059dd0800000000000000
+      internalID: -2480071948695477260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_156
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 709
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb8374207b652af0800000000000000
+      internalID: -421812860697211954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_157
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 703
+        width: 114
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25021a292839e3890800000000000000
+      internalID: -7476376142373380014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_158
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 769
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb524efb0bbcd30c0800000000000000
+      internalID: -4594292084853955140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_159
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 769
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e93110f3a0793d90800000000000000
+      internalID: -7117533886672717335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_160
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 695
+        width: 98
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff2cf98c74cb9220800000000000000
+      internalID: 2493802857849696251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_161
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 703
+        width: 113
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee54e75f88a82e90800000000000000
+      internalID: -7050199883040137498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_162
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 769
+        width: 50
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647688151e6ecb5f0800000000000000
+      internalID: -739462383385680058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 688
+        width: 38
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c802396a03789e0800000000000000
+      internalID: -1619272049025315790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_164
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 628
+        width: 28
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095b0a8e09b8cec40800000000000000
+      internalID: 5542958695880635792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_165
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 639
+        width: 161
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e023df4c99779dfc0800000000000000
+      internalID: -3469610535593627122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_166
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 694
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c1326708fcbce70800000000000000
+      internalID: 9136624419695959189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_167
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 694
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67843b7537e88a6e0800000000000000
+      internalID: -1826053022854985610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_168
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 698
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279223efd541d61f0800000000000000
+      internalID: -1050160744178243214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_169
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 695
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950650f964db021d0800000000000000
+      internalID: -3377491609514581927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_170
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 697
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c056748d5eb3020800000000000000
+      internalID: 2322702749913123886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_171
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 694
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3449ae32149db030800000000000000
+      internalID: 3512126090500457535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_172
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 694
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfedb215eeb35d6e0800000000000000
+      internalID: -1813477380196671747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_173
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 693
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9fe5eee22758350800000000000000
+      internalID: 6018342022943799720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_174
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 694
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653dcf3df89efd330800000000000000
+      internalID: 3737963019686957910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-hill
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 608
+        width: 48
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2714654769611560800000000000000
+      internalID: 7282717964701538090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_176
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 688
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b370df1abecbf8850800000000000000
+      internalID: 6381526917228332859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_177
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 689
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072288178b1dee480800000000000000
+      internalID: -8867920026136993168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_178
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 688
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49627cdaab6e81110800000000000000
+      internalID: 1231988187539646100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_179
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 688
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99284a6588f07fe0800000000000000
+      internalID: -1193180649355728482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_180
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 688
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2421ba3431a167f0800000000000000
+      internalID: -621038027905358801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_181
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 674
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f6f0a79ce656d00800000000000000
+      internalID: 965299506756153098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_182
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 673
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378138c813202df20800000000000000
+      internalID: 3445819076725905523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 544
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ac3000fd0be58e0800000000000000
+      internalID: -1702729137275024828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_184
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 641
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87e8965483b0fc50800000000000000
+      internalID: 6697050026869843855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_185
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 624
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56aafb7800abcc120800000000000000
+      internalID: 2435526009940847205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_186
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 656
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2029192d4efe860800000000000000
+      internalID: 7561513892414882556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_187
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 559
+        width: 127
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c90e00fc60084b0800000000000000
+      internalID: -5440340863720842166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_188
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 624
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86aa7103e5d0b25b0800000000000000
+      internalID: -5392201430661092760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_189
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 626
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5931c98e12eda93e0800000000000000
+      internalID: -2046078843468639339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_190
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 632
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b852f433cb0ac8fd0800000000000000
+      internalID: -2338317376337009269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_191
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 565
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef56ab5b07b26050800000000000000
+      internalID: 5792393330162032612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_192
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 609
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f88bb68af6d222a0800000000000000
+      internalID: -6763607318866458381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gate
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 512
+        width: 65
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edce6bc6b1a0b4ad0800000000000000
+      internalID: -2717066837283640098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_194
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 527
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87fbabaae2d4b7530800000000000000
+      internalID: 3853758768973791096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_195
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 532
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f103ff0177b639360800000000000000
+      internalID: 7175196790461771807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_196
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 511
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e98d5575124ff420800000000000000
+      internalID: 2665922164357433824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_197
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 516
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17cc13210d36b9940800000000000000
+      internalID: 5303942731468491889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_198
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 482
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ad111fdc6d79bf0800000000000000
+      internalID: -317549068705211873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopHanger
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 481
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 2, y: 0, z: 0, w: 2}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2edf0594db85e90800000000000000
+      internalID: -7036666295177321743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop-banner
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 483
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d16c5a117c14a00800000000000000
+      internalID: 739090692475067807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_201
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 447
+        width: 81
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96c00a835cab0040800000000000000
+      internalID: 4614971717968774815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_202
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 496
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047b882dcc932f860800000000000000
+      internalID: 7562170276176770880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_203
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 463
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902c58a31f4ebc4d0800000000000000
+      internalID: -3113142992676470263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_204
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 459
+        width: 14
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b150b44e85ab43ba0800000000000000
+      internalID: -6110053903484910309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side-castle
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 417
+        width: 33
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8c1172e7e6058e0800000000000000
+      internalID: -1706742770673006344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_206
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 485
+        width: 50
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06de628908645f290800000000000000
+      internalID: -7857296456755516064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_207
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 449
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef48b9c3eed12c40800000000000000
+      internalID: 5485910891037216742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grave-3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 451
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33f81a614cffbb30800000000000000
+      internalID: 4305437126672577343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_209
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 434
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f660e426b5b9770800000000000000
+      internalID: 8618582789677543223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_210
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 463
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c495d4c7fb49a8850800000000000000
+      internalID: 6380075372268837196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_211
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 463
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb28c0e0a4f580af0800000000000000
+      internalID: -429988992745962817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_212
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 433
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cde74328673b8440800000000000000
+      internalID: 4939102336749923777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grave-1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 434
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c53c9835a1cb9660800000000000000
+      internalID: 7393716128622327234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grave-2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 418
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b87ffe60eb70f20800000000000000
+      internalID: 3388886181624646523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_215
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 433
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8837854cdbd765f10800000000000000
+      internalID: 2258130517169304456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_216
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 432
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a778b9ae88b6cee0800000000000000
+      internalID: -1241101724421687384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_217
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 435
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89508069c304606c0800000000000000
+      internalID: -4177580975380232808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_218
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 436
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967e0db2e7c09aea0800000000000000
+      internalID: -5861139704005466263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_219
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 440
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56a47a78c65f8240800000000000000
+      internalID: 4796147547220780634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_220
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 404
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7664efeebc4f0f7e0800000000000000
+      internalID: -1733616699812460953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_221
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 420
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9fef97b22389f10800000000000000
+      internalID: 2276624773947521470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_222
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 309
+        width: 130
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a2f95fe24dc88b0800000000000000
+      internalID: -5148506975836886448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rooftop
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 393
+        width: 42
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc787e7fab9ed4910800000000000000
+      internalID: 1823370413387253707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_224
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 368
+        width: 82
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f36d371baa4c1e0800000000000000
+      internalID: -2178428640611123429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_225
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 97
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215bac747795e3c50800000000000000
+      internalID: 6646848468885878034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_226
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 267
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c903a47d9f919b70800000000000000
+      internalID: 8904073436903705029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_227
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 255
+        width: 49
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a358bb91ae11a9f50800000000000000
+      internalID: 6888838277168334138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: table top
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 960
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a03dc68d9293324c854036d7c999671
+      internalID: 1445231371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: table_top
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1009
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8994047ed43979c4d89023560a513cc7
+      internalID: 53447404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drinktable
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 838
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b68e2880cb47a45b0eadc089ac24d0
+      internalID: 1483312262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabinet
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 882
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db36185ae663ebd40829276b5aa89840
+      internalID: 1488634794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: containers
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 930
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8dcfd43880b864c88cd4225d36e69c
+      internalID: -1637551317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drawers
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 914
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684861019607e37488ac90a9be708144
+      internalID: 412954300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fridge
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 882
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a4dccb35bca8646aee69a8f08a2482
+      internalID: 2029247772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mat
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 882
+        width: 47
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2602c072b76f90140a5212b8b8ceb43e
+      internalID: 1437765826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SquareTable
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 834
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a0d5917cdd3d14d9840369fa46380c
+      internalID: 1904879006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fridge2
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 881
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a469b776c6018448c150ff2a2ce95a
+      internalID: 1929598298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Door
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 511
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 1, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1d59c8cada03a46b00fb76f762a6f1
+      internalID: 85267263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy_Above_Tiles_14
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 944
+        width: 63
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7efa5ebbbbe43bf488991487e0748113
+      internalID: -1644289178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop-item-2
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 976
+        width: 48
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c43c1030b737d4c9de75d616cf4f07
+      internalID: -86516349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop-bottom
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 867
+        width: 48
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce79a2d48d43a9d42996a8090bc4b75e
+      internalID: -78024130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle-top-right
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 560
+        width: 18
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d661acbbc96554ea4c34dc5b6475f8
+      internalID: -1730002160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle-top-left
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 560
+        width: 13
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838acccb68ba47f45ac9fd2449550ef7
+      internalID: 2138491411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocked-gate
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 419
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39415c49f6ba4db498ff4c6ea2b81c27
+      internalID: 865904855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarTable_Stand
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 951
+        width: 48
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dbea71ff4a6adb469cbc46d9b0a7c6c
+      internalID: 1737474684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: price-menu
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 882
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb91202c22bd714bb6f169a0b74c496
+      internalID: 235963015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 18d165b6ebfa1d340a899db0e6e8197a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BarTable_Stand: 1737474684
+      Door: 85267263
+      Drawers: 412954300
+      Fantasy_Above_Tiles_0: 5850525403696795384
+      Fantasy_Above_Tiles_1: -6674803894434419969
+      Fantasy_Above_Tiles_10: 1782232153343132089
+      Fantasy_Above_Tiles_100: -623253614706646568
+      Fantasy_Above_Tiles_101: 2540633075017430908
+      Fantasy_Above_Tiles_102: 7764279793286452757
+      Fantasy_Above_Tiles_103: -599138746576817153
+      Fantasy_Above_Tiles_104: -4906582378086290565
+      Fantasy_Above_Tiles_105: -7717038819943426880
+      Fantasy_Above_Tiles_106: -2890197949689357731
+      Fantasy_Above_Tiles_107: -3627078885484198905
+      Fantasy_Above_Tiles_108: 7936958828016462897
+      Fantasy_Above_Tiles_109: -777693643922986324
+      Fantasy_Above_Tiles_11: 1866659080836002837
+      Fantasy_Above_Tiles_110: -7411655833025821281
+      Fantasy_Above_Tiles_111: 115221472529149608
+      Fantasy_Above_Tiles_112: -3098696126928384770
+      Fantasy_Above_Tiles_113: 7180215801915779052
+      Fantasy_Above_Tiles_114: -4455423517346885625
+      Fantasy_Above_Tiles_115: -1775130064697628740
+      Fantasy_Above_Tiles_116: -2716944218950496763
+      Fantasy_Above_Tiles_117: 1599202226443257997
+      Fantasy_Above_Tiles_118: 4860153579318366234
+      Fantasy_Above_Tiles_119: 7789608103813154486
+      Fantasy_Above_Tiles_12: -7159795986060988126
+      Fantasy_Above_Tiles_120: 5821829965163289890
+      Fantasy_Above_Tiles_121: -3841987007686914320
+      Fantasy_Above_Tiles_122: 5138184212166113760
+      Fantasy_Above_Tiles_123: 6440192602470140144
+      Fantasy_Above_Tiles_124: 5835006523624074025
+      Fantasy_Above_Tiles_126: -5497622230575320989
+      Fantasy_Above_Tiles_127: 9073020559657954067
+      Fantasy_Above_Tiles_128: 4309867017102100600
+      Fantasy_Above_Tiles_129: 3670350468210686864
+      Fantasy_Above_Tiles_13: -160809611315503696
+      Fantasy_Above_Tiles_130: -3722716173051938198
+      Fantasy_Above_Tiles_131: -7355573328231709560
+      Fantasy_Above_Tiles_132: 7663667785045703191
+      Fantasy_Above_Tiles_133: 8247762939979432505
+      Fantasy_Above_Tiles_134: 1146510778523179991
+      Fantasy_Above_Tiles_135: -7181268381813978530
+      Fantasy_Above_Tiles_136: -8869254688393674343
+      Fantasy_Above_Tiles_137: -5729545288089186614
+      Fantasy_Above_Tiles_138: -3634983271467905456
+      Fantasy_Above_Tiles_139: 4678332852364416875
+      Fantasy_Above_Tiles_14: -1644289178
+      Fantasy_Above_Tiles_140: 8089837658712992351
+      Fantasy_Above_Tiles_141: -8592150210908961304
+      Fantasy_Above_Tiles_142: -7147237625025029310
+      Fantasy_Above_Tiles_144: -3658861363394083518
+      Fantasy_Above_Tiles_145: -5671185277403136003
+      Fantasy_Above_Tiles_146: -4332898064656736024
+      Fantasy_Above_Tiles_147: -4403006961629080638
+      Fantasy_Above_Tiles_148: 8199207360269379644
+      Fantasy_Above_Tiles_149: -2260211860590208531
+      Fantasy_Above_Tiles_150: 8919970367706764462
+      Fantasy_Above_Tiles_151: 5099606925800783134
+      Fantasy_Above_Tiles_152: 6130868246872044252
+      Fantasy_Above_Tiles_153: -1805287528221164528
+      Fantasy_Above_Tiles_154: -7182456635612744054
+      Fantasy_Above_Tiles_155: -2480071948695477260
+      Fantasy_Above_Tiles_156: -421812860697211954
+      Fantasy_Above_Tiles_157: -7476376142373380014
+      Fantasy_Above_Tiles_158: -4594292084853955140
+      Fantasy_Above_Tiles_159: -7117533886672717335
+      Fantasy_Above_Tiles_16: 3443468799406869292
+      Fantasy_Above_Tiles_160: 2493802857849696251
+      Fantasy_Above_Tiles_161: -7050199883040137498
+      Fantasy_Above_Tiles_162: -739462383385680058
+      Fantasy_Above_Tiles_164: 5542958695880635792
+      Fantasy_Above_Tiles_165: -3469610535593627122
+      Fantasy_Above_Tiles_166: 9136624419695959189
+      Fantasy_Above_Tiles_167: -1826053022854985610
+      Fantasy_Above_Tiles_168: -1050160744178243214
+      Fantasy_Above_Tiles_169: -3377491609514581927
+      Fantasy_Above_Tiles_17: -8172583845754553942
+      Fantasy_Above_Tiles_170: 2322702749913123886
+      Fantasy_Above_Tiles_171: 3512126090500457535
+      Fantasy_Above_Tiles_172: -1813477380196671747
+      Fantasy_Above_Tiles_173: 6018342022943799720
+      Fantasy_Above_Tiles_174: 3737963019686957910
+      Fantasy_Above_Tiles_176: 6381526917228332859
+      Fantasy_Above_Tiles_177: -8867920026136993168
+      Fantasy_Above_Tiles_178: 1231988187539646100
+      Fantasy_Above_Tiles_179: -1193180649355728482
+      Fantasy_Above_Tiles_18: 6059871783334087012
+      Fantasy_Above_Tiles_180: -621038027905358801
+      Fantasy_Above_Tiles_181: 965299506756153098
+      Fantasy_Above_Tiles_182: 3445819076725905523
+      Fantasy_Above_Tiles_184: 6697050026869843855
+      Fantasy_Above_Tiles_185: 2435526009940847205
+      Fantasy_Above_Tiles_186: 7561513892414882556
+      Fantasy_Above_Tiles_187: -5440340863720842166
+      Fantasy_Above_Tiles_188: -5392201430661092760
+      Fantasy_Above_Tiles_189: -2046078843468639339
+      Fantasy_Above_Tiles_19: 3592968495471880733
+      Fantasy_Above_Tiles_190: -2338317376337009269
+      Fantasy_Above_Tiles_191: 5792393330162032612
+      Fantasy_Above_Tiles_192: -6763607318866458381
+      Fantasy_Above_Tiles_194: 3853758768973791096
+      Fantasy_Above_Tiles_195: 7175196790461771807
+      Fantasy_Above_Tiles_196: 2665922164357433824
+      Fantasy_Above_Tiles_197: 5303942731468491889
+      Fantasy_Above_Tiles_198: -317549068705211873
+      Fantasy_Above_Tiles_2: 2078634579136844544
+      Fantasy_Above_Tiles_20: -1597650071114860487
+      Fantasy_Above_Tiles_201: 4614971717968774815
+      Fantasy_Above_Tiles_202: 7562170276176770880
+      Fantasy_Above_Tiles_203: -3113142992676470263
+      Fantasy_Above_Tiles_204: -6110053903484910309
+      Fantasy_Above_Tiles_206: -7857296456755516064
+      Fantasy_Above_Tiles_207: 5485910891037216742
+      Fantasy_Above_Tiles_209: 8618582789677543223
+      Fantasy_Above_Tiles_21: -6876600168114745443
+      Fantasy_Above_Tiles_210: 6380075372268837196
+      Fantasy_Above_Tiles_211: -429988992745962817
+      Fantasy_Above_Tiles_212: 4939102336749923777
+      Fantasy_Above_Tiles_215: 2258130517169304456
+      Fantasy_Above_Tiles_216: -1241101724421687384
+      Fantasy_Above_Tiles_217: -4177580975380232808
+      Fantasy_Above_Tiles_218: -5861139704005466263
+      Fantasy_Above_Tiles_219: 4796147547220780634
+      Fantasy_Above_Tiles_22: -3792473461827319380
+      Fantasy_Above_Tiles_220: -1733616699812460953
+      Fantasy_Above_Tiles_221: 2276624773947521470
+      Fantasy_Above_Tiles_222: -5148506975836886448
+      Fantasy_Above_Tiles_224: -2178428640611123429
+      Fantasy_Above_Tiles_225: 6646848468885878034
+      Fantasy_Above_Tiles_226: 8904073436903705029
+      Fantasy_Above_Tiles_227: 6888838277168334138
+      Fantasy_Above_Tiles_23: -6332101273122903589
+      Fantasy_Above_Tiles_24: 8914448258642251608
+      Fantasy_Above_Tiles_25: 4247887009606992842
+      Fantasy_Above_Tiles_26: 667249280139716600
+      Fantasy_Above_Tiles_27: 5643494390245974956
+      Fantasy_Above_Tiles_28: 4415401432598197077
+      Fantasy_Above_Tiles_29: 7081395462332443608
+      Fantasy_Above_Tiles_3: -1830586852148191030
+      Fantasy_Above_Tiles_30: 6333811277819493895
+      Fantasy_Above_Tiles_31: -8907942677409243363
+      Fantasy_Above_Tiles_32: 6739549799282660115
+      Fantasy_Above_Tiles_33: -7721919555740687791
+      Fantasy_Above_Tiles_34: -6273752287314111103
+      Fantasy_Above_Tiles_35: 8257558272854253879
+      Fantasy_Above_Tiles_36: 3255468989177500139
+      Fantasy_Above_Tiles_37: -9199355337717787459
+      Fantasy_Above_Tiles_38: -826207067013442327
+      Fantasy_Above_Tiles_39: -2260662769101728964
+      Fantasy_Above_Tiles_4: 3268673002859519503
+      Fantasy_Above_Tiles_40: -1064870314514331343
+      Fantasy_Above_Tiles_41: 2345366475984576828
+      Fantasy_Above_Tiles_42: 7888179827441087118
+      Fantasy_Above_Tiles_43: -25710965306067701
+      Fantasy_Above_Tiles_44: -420385032913052066
+      Fantasy_Above_Tiles_45: -8945721971080416183
+      Fantasy_Above_Tiles_46: 8128550557103706700
+      Fantasy_Above_Tiles_47: -7003001078524755617
+      Fantasy_Above_Tiles_48: 950968782121751144
+      Fantasy_Above_Tiles_49: 2671634512917935480
+      Fantasy_Above_Tiles_5: -4945350718358307264
+      Fantasy_Above_Tiles_50: -5938940247115464522
+      Fantasy_Above_Tiles_52: -5050415805461746071
+      Fantasy_Above_Tiles_53: 2993043201077786316
+      Fantasy_Above_Tiles_54: -8904244485900439725
+      Fantasy_Above_Tiles_55: 4962104745143318475
+      Fantasy_Above_Tiles_56: 2696360538008453870
+      Fantasy_Above_Tiles_57: -6594747028382171144
+      Fantasy_Above_Tiles_58: -4737294305808395070
+      Fantasy_Above_Tiles_59: 3250101149878154210
+      Fantasy_Above_Tiles_6: -814470320201504074
+      Fantasy_Above_Tiles_60: 4555514160078677220
+      Fantasy_Above_Tiles_61: 292114460766451019
+      Fantasy_Above_Tiles_62: 6208768641180064423
+      Fantasy_Above_Tiles_63: -1633984642767516955
+      Fantasy_Above_Tiles_64: 3088425734678322950
+      Fantasy_Above_Tiles_65: -1546943499070444264
+      Fantasy_Above_Tiles_66: -5290690212175050696
+      Fantasy_Above_Tiles_67: -6008369454905613933
+      Fantasy_Above_Tiles_68: -6478506720630668937
+      Fantasy_Above_Tiles_69: -2335823031317671877
+      Fantasy_Above_Tiles_7: 5877152022666119940
+      Fantasy_Above_Tiles_70: -8223273583473252267
+      Fantasy_Above_Tiles_71: 1570252888996520225
+      Fantasy_Above_Tiles_72: -7262154901222598066
+      Fantasy_Above_Tiles_73: -4755676028947916444
+      Fantasy_Above_Tiles_74: 2355663036618811390
+      Fantasy_Above_Tiles_75: -4713507526607621531
+      Fantasy_Above_Tiles_76: 8657911528507224021
+      Fantasy_Above_Tiles_77: 3056506092207610181
+      Fantasy_Above_Tiles_78: 1254338850523590620
+      Fantasy_Above_Tiles_79: 9218981880917437316
+      Fantasy_Above_Tiles_8: -2594736490962942962
+      Fantasy_Above_Tiles_80: 3151439913086052296
+      Fantasy_Above_Tiles_81: 6153546265940482437
+      Fantasy_Above_Tiles_82: 6513883237017717776
+      Fantasy_Above_Tiles_83: -4006715980519613020
+      Fantasy_Above_Tiles_84: -4145641201943752442
+      Fantasy_Above_Tiles_85: -8537228840894876220
+      Fantasy_Above_Tiles_86: -7207586896254572762
+      Fantasy_Above_Tiles_88: 8931054207187310979
+      Fantasy_Above_Tiles_89: -7261181132970981699
+      Fantasy_Above_Tiles_9: 2277454031611809630
+      Fantasy_Above_Tiles_90: 6966805189260579587
+      Fantasy_Above_Tiles_91: 4168238774614136755
+      Fantasy_Above_Tiles_92: 2993280821516800710
+      Fantasy_Above_Tiles_93: -7326450894305417881
+      Fantasy_Above_Tiles_94: 2559763989012547453
+      Fantasy_Above_Tiles_95: 4226806571816284885
+      Fantasy_Above_Tiles_96: -5029479173169728994
+      Fantasy_Above_Tiles_97: -236812481635453617
+      Fantasy_Above_Tiles_98: -297649043388630352
+      Fantasy_Above_Tiles_99: -4050468306264685962
+      Fridge: 2029247772
+      Fridge2: 1929598298
+      Mat: 1437765826
+      ShopHanger: -7036666295177321743
+      SquareTable: 1904879006
+      background-hill: 7282717964701538090
+      blocked-gate: 865904855
+      cabinet: 1488634794
+      cabinet_top: -8267302024351116964
+      castle-top-left: 2138491411
+      castle-top-right: -1730002160
+      containers: -1637551317
+      curtains: 458841728016963754
+      door-opening: 5563629388238586512
+      drinktable: 1483312262
+      gate: -2717066837283640098
+      grave-1: 7393716128622327234
+      grave-2: 3388886181624646523
+      grave-3: 4305437126672577343
+      price-menu: 235963015
+      rooftop: 1823370413387253707
+      shop: -1702729137275024828
+      shop-banner: 739090692475067807
+      shop-bottom: -78024130
+      shop-item-2: -86516349
+      shop-items: -6015713664529242654
+      side-castle: -1706742770673006344
+      table top: 1445231371
+      table_stand: 7601188943999531682
+      table_top: 53447404
+      wall: -1619272049025315790
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

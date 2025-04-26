@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f860ca21cc00891439c6f5efa6570a7c, type: 3}
+  m_Name: OrderData
+  m_EditorClassIdentifier: 
+  ingredientMappings:
+  - orderName: Red
+    orderSprite: {fileID: 21300000, guid: 48039b8bca6904541bf8d2e8b6808ae7, type: 2}
+  - orderName: Blue
+    orderSprite: {fileID: 21300000, guid: d4f28a5904a48a746b4657b967a24843, type: 2}
+  - orderName: Purple
+    orderSprite: {fileID: 21300000, guid: 006b5dc2976dc0941a809abbe467bf4a, type: 2}
+  - orderName: Eyes
+    orderSprite: {fileID: -8817426130257391540, guid: 4d682c8acf3fd7447a58c8cbd342ba4e, type: 3}
+  - orderName: Stomach
+    orderSprite: {fileID: -5633561393553620639, guid: a82d630ba07139c489a86a002a4e72f2, type: 3}
+  - orderName: Finger
+    orderSprite: {fileID: 5488928084159957800, guid: f419bfdbbe5a856449a34a5b4e8c907b, type: 3}
+  - orderName: Kidney
+    orderSprite: {fileID: 7593596097923754189, guid: 62b8620662f09f44eaa5efa79597f26b, type: 3}
+  - orderName: Intestine
+    orderSprite: {fileID: 6054832204872192385, guid: 8660fe5b68ed51a4d9f437908f794608, type: 3}
+  - orderName: Brain
+    orderSprite: {fileID: -3395856866206217572, guid: 17d4e024aa5d91e42be01cdad8f634b6, type: 3}
+  - orderName: Heart
+    orderSprite: {fileID: -205270267638800340, guid: 4b04da4b611ee5d43be37edaa84cd6cc, type: 3}
